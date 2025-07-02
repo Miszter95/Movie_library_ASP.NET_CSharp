@@ -1,0 +1,949 @@
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\libman.json
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Client.staticwebassets.runtime.json
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\appsettings.Development.json
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\appsettings.json
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.staticwebassets.runtime.json
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.exe
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.deps.json
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.runtimeconfig.json
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.pdb
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Azure.Core.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Azure.Identity.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Azure.Security.KeyVault.Certificates.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Blazored.Typeahead.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Humanizer.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Authentication.WebAssembly.Msal.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Identity.Web.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Identity.Web.UI.Views.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Identity.Web.UI.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Mono.TextTemplating.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.CodeDom.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Memory.Data.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Text.Json.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Client.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Shared.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Client.pdb
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Shared.pdb
+G:\G meghajto\.net\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.csproj.AssemblyReference.cache
+G:\G meghajto\.net\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.GeneratedMSBuildEditorConfig.editorconfig
+G:\G meghajto\.net\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.AssemblyInfoInputs.cache
+G:\G meghajto\.net\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.AssemblyInfo.cs
+G:\G meghajto\.net\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.csproj.CoreCompileInputs.cache
+G:\G meghajto\.net\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.MvcApplicationPartsAssemblyInfo.cs
+G:\G meghajto\.net\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.MvcApplicationPartsAssemblyInfo.cache
+G:\G meghajto\.net\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.RazorAssemblyInfo.cache
+G:\G meghajto\.net\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.RazorAssemblyInfo.cs
+G:\G meghajto\.net\kesz\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets\msbuild.MovieLibrary.Server.Microsoft.AspNetCore.StaticWebAssets.props
+G:\G meghajto\.net\kesz\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.MovieLibrary.Server.props
+G:\G meghajto\.net\kesz\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MovieLibrary.Server.props
+G:\G meghajto\.net\kesz\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MovieLibrary.Server.props
+G:\G meghajto\.net\kesz\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets.pack.json
+G:\G meghajto\.net\kesz\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets.build.json
+G:\G meghajto\.net\kesz\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets.development.json
+G:\G meghajto\.net\kesz\MovieLibrary\Server\obj\Debug\net6.0\scopedcss\bundle\MovieLibrary.Server.styles.css
+G:\G meghajto\.net\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.csproj.CopyComplete
+G:\G meghajto\.net\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\obj\Debug\net6.0\refint\MovieLibrary.Server.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.pdb
+G:\G meghajto\.net\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.genruntimeconfig.cache
+G:\G meghajto\.net\kesz\MovieLibrary\Server\obj\Debug\net6.0\ref\MovieLibrary.Server.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Radzen.Blazor.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Namotion.Reflection.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\NJsonSchema.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\NJsonSchema.Yaml.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\NSwag.Annotations.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\NSwag.AspNetCore.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\NSwag.Core.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\NSwag.Core.Yaml.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\NSwag.Generation.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\NSwag.Generation.AspNetCore.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\YamlDotNet.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.xml
+G:\G meghajto\.net\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.xml
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\libman.json
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\appsettings.Development.json
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\appsettings.json
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Client.staticwebassets.runtime.json
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.staticwebassets.runtime.json
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.exe
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.deps.json
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.runtimeconfig.json
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.pdb
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.xml
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Azure.Core.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Azure.Identity.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Azure.Security.KeyVault.Certificates.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Blazored.Typeahead.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Humanizer.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Authentication.WebAssembly.Msal.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Identity.Web.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Identity.Web.UI.Views.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Identity.Web.UI.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Mono.TextTemplating.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Namotion.Reflection.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\NJsonSchema.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\NJsonSchema.Yaml.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\NSwag.Annotations.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\NSwag.AspNetCore.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\NSwag.Core.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\NSwag.Core.Yaml.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\NSwag.Generation.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\NSwag.Generation.AspNetCore.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Radzen.Blazor.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.CodeDom.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Memory.Data.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Text.Json.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\YamlDotNet.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Client.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Shared.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Client.pdb
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Shared.pdb
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.csproj.AssemblyReference.cache
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.GeneratedMSBuildEditorConfig.editorconfig
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.AssemblyInfoInputs.cache
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.AssemblyInfo.cs
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.csproj.CoreCompileInputs.cache
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.MvcApplicationPartsAssemblyInfo.cs
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.MvcApplicationPartsAssemblyInfo.cache
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.RazorAssemblyInfo.cache
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.RazorAssemblyInfo.cs
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets\msbuild.MovieLibrary.Server.Microsoft.AspNetCore.StaticWebAssets.props
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.MovieLibrary.Server.props
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MovieLibrary.Server.props
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MovieLibrary.Server.props
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets.pack.json
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets.build.json
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets.development.json
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\obj\Debug\net6.0\scopedcss\bundle\MovieLibrary.Server.styles.css
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.csproj.CopyComplete
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\obj\Debug\net6.0\refint\MovieLibrary.Server.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.xml
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.pdb
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.genruntimeconfig.cache
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\obj\Debug\net6.0\ref\MovieLibrary.Server.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\GreenDonut.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Abstractions.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.AspNetCore.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Authorization.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Execution.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Execution.Abstractions.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Fetching.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Language.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Language.SyntaxTree.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Language.Utf8.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Language.Visitors.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Language.Web.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Subscriptions.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Subscriptions.InMemory.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Transport.Sockets.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Types.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Types.CursorPagination.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Types.Mutations.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Types.OffsetPagination.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Types.Scalars.Upload.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Utilities.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Utilities.Introspection.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Validation.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Data.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Data.EntityFramework.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\libman.json
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\appsettings.Development.json
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\appsettings.json
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Client.staticwebassets.runtime.json
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.staticwebassets.runtime.json
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.exe
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.deps.json
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.runtimeconfig.json
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.pdb
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.xml
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Azure.Core.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Azure.Identity.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Azure.Security.KeyVault.Certificates.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Blazored.Typeahead.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\GreenDonut.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Abstractions.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.AspNetCore.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Authorization.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Data.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Data.EntityFramework.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Execution.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Execution.Abstractions.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Fetching.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Language.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Language.SyntaxTree.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Language.Utf8.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Language.Visitors.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Language.Web.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Subscriptions.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Subscriptions.InMemory.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Transport.Sockets.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Types.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Types.CursorPagination.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Types.Mutations.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Types.OffsetPagination.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Types.Scalars.Upload.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Utilities.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Utilities.Introspection.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Validation.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Humanizer.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Authentication.WebAssembly.Msal.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Identity.Web.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Identity.Web.UI.Views.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Identity.Web.UI.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Mono.TextTemplating.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Namotion.Reflection.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\NJsonSchema.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\NJsonSchema.Yaml.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\NSwag.Annotations.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\NSwag.AspNetCore.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\NSwag.Core.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\NSwag.Core.Yaml.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\NSwag.Generation.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\NSwag.Generation.AspNetCore.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\Radzen.Blazor.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.CodeDom.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Memory.Data.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Text.Json.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\YamlDotNet.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Client.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Shared.dll
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Client.pdb
+F:\probakesz3\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Shared.pdb
+F:\probakesz3\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.csproj.AssemblyReference.cache
+F:\probakesz3\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.GeneratedMSBuildEditorConfig.editorconfig
+F:\probakesz3\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.AssemblyInfoInputs.cache
+F:\probakesz3\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.AssemblyInfo.cs
+F:\probakesz3\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.csproj.CoreCompileInputs.cache
+F:\probakesz3\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.MvcApplicationPartsAssemblyInfo.cs
+F:\probakesz3\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.MvcApplicationPartsAssemblyInfo.cache
+F:\probakesz3\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.RazorAssemblyInfo.cache
+F:\probakesz3\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.RazorAssemblyInfo.cs
+F:\probakesz3\kesz\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets\msbuild.MovieLibrary.Server.Microsoft.AspNetCore.StaticWebAssets.props
+F:\probakesz3\kesz\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.MovieLibrary.Server.props
+F:\probakesz3\kesz\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MovieLibrary.Server.props
+F:\probakesz3\kesz\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MovieLibrary.Server.props
+F:\probakesz3\kesz\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets.pack.json
+F:\probakesz3\kesz\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets.build.json
+F:\probakesz3\kesz\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets.development.json
+F:\probakesz3\kesz\MovieLibrary\Server\obj\Debug\net6.0\scopedcss\bundle\MovieLibrary.Server.styles.css
+F:\probakesz3\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.csproj.CopyComplete
+F:\probakesz3\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.dll
+F:\probakesz3\kesz\MovieLibrary\Server\obj\Debug\net6.0\refint\MovieLibrary.Server.dll
+F:\probakesz3\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.xml
+F:\probakesz3\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.pdb
+F:\probakesz3\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.genruntimeconfig.cache
+F:\probakesz3\kesz\MovieLibrary\Server\obj\Debug\net6.0\ref\MovieLibrary.Server.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\libman.json
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\appsettings.Development.json
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\appsettings.json
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Client.staticwebassets.runtime.json
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Client.staticwebassets.endpoints.json
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.staticwebassets.runtime.json
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.staticwebassets.endpoints.json
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.exe
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.deps.json
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.runtimeconfig.json
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.pdb
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.xml
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Azure.Core.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Azure.Identity.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Azure.Security.KeyVault.Certificates.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Blazored.Typeahead.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\GreenDonut.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Abstractions.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.AspNetCore.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Authorization.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Data.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Data.EntityFramework.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Execution.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Execution.Abstractions.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Fetching.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Language.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Language.SyntaxTree.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Language.Utf8.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Language.Visitors.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Language.Web.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Subscriptions.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Subscriptions.InMemory.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Transport.Sockets.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Types.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Types.CursorPagination.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Types.Mutations.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Types.OffsetPagination.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Types.Scalars.Upload.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Utilities.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Utilities.Introspection.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Validation.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Humanizer.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Authentication.WebAssembly.Msal.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Identity.Web.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Identity.Web.UI.Views.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Identity.Web.UI.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Namotion.Reflection.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\NJsonSchema.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\NJsonSchema.Yaml.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\NSwag.Annotations.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\NSwag.AspNetCore.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\NSwag.Core.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\NSwag.Core.Yaml.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\NSwag.Generation.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\NSwag.Generation.AspNetCore.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\Radzen.Blazor.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.CodeDom.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Memory.Data.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Text.Json.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\YamlDotNet.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Client.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Shared.dll
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Client.pdb
+D:\kesz\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Shared.pdb
+D:\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.csproj.AssemblyReference.cache
+D:\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.AssemblyInfoInputs.cache
+D:\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.AssemblyInfo.cs
+D:\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.csproj.CoreCompileInputs.cache
+D:\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.RazorAssemblyInfo.cache
+D:\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.RazorAssemblyInfo.cs
+D:\kesz\MovieLibrary\Server\obj\Debug\net6.0\scopedcss\bundle\MovieLibrary.Server.styles.css
+D:\kesz\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets.build.json
+D:\kesz\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets.development.json
+D:\kesz\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\kesz\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets\msbuild.MovieLibrary.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\kesz\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets\msbuild.MovieLibrary.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\kesz\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.MovieLibrary.Server.props
+D:\kesz\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MovieLibrary.Server.props
+D:\kesz\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MovieLibrary.Server.props
+D:\kesz\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets.pack.json
+D:\kesz\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLib.63807318.Up2Date
+D:\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.dll
+D:\kesz\MovieLibrary\Server\obj\Debug\net6.0\refint\MovieLibrary.Server.dll
+D:\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.xml
+D:\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.pdb
+D:\kesz\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.genruntimeconfig.cache
+D:\kesz\MovieLibrary\Server\obj\Debug\net6.0\ref\MovieLibrary.Server.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\libman.json
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\appsettings.Development.json
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\appsettings.json
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Client.staticwebassets.runtime.json
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Client.staticwebassets.endpoints.json
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.staticwebassets.runtime.json
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.staticwebassets.endpoints.json
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.exe
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.deps.json
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.runtimeconfig.json
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.pdb
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.xml
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Azure.Core.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Azure.Identity.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Azure.Security.KeyVault.Certificates.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Blazored.Typeahead.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\GreenDonut.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Abstractions.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.AspNetCore.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Authorization.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Data.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Data.EntityFramework.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Execution.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Execution.Abstractions.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Fetching.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Language.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Language.SyntaxTree.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Language.Utf8.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Language.Visitors.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Language.Web.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Subscriptions.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Subscriptions.InMemory.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Transport.Sockets.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Types.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Types.CursorPagination.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Types.Mutations.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Types.OffsetPagination.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Types.Scalars.Upload.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Utilities.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Utilities.Introspection.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Validation.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Humanizer.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Authentication.WebAssembly.Msal.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Identity.Web.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Identity.Web.UI.Views.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Identity.Web.UI.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Namotion.Reflection.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\NJsonSchema.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\NJsonSchema.Yaml.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\NSwag.Annotations.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\NSwag.AspNetCore.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\NSwag.Core.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\NSwag.Core.Yaml.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\NSwag.Generation.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\NSwag.Generation.AspNetCore.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Radzen.Blazor.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\System.CodeDom.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\System.Memory.Data.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\System.Text.Json.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\YamlDotNet.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Client.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Shared.dll
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Client.pdb
+D:\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Shared.pdb
+D:\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.csproj.AssemblyReference.cache
+D:\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.AssemblyInfoInputs.cache
+D:\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.AssemblyInfo.cs
+D:\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.csproj.CoreCompileInputs.cache
+D:\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.RazorAssemblyInfo.cache
+D:\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.RazorAssemblyInfo.cs
+D:\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\scopedcss\bundle\MovieLibrary.Server.styles.css
+D:\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets.build.json
+D:\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets.development.json
+D:\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets\msbuild.MovieLibrary.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets\msbuild.MovieLibrary.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.MovieLibrary.Server.props
+D:\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MovieLibrary.Server.props
+D:\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MovieLibrary.Server.props
+D:\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets.pack.json
+D:\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\MovieLib.63807318.Up2Date
+D:\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.dll
+D:\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\refint\MovieLibrary.Server.dll
+D:\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.xml
+D:\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.pdb
+D:\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.genruntimeconfig.cache
+D:\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\ref\MovieLibrary.Server.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\libman.json
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\appsettings.json
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Client.staticwebassets.runtime.json
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Client.staticwebassets.endpoints.json
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.staticwebassets.runtime.json
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.staticwebassets.endpoints.json
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.exe
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.deps.json
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.runtimeconfig.json
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.pdb
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Server.xml
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Azure.Security.KeyVault.Certificates.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Blazored.Typeahead.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\GreenDonut.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Abstractions.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.AspNetCore.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Authorization.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Data.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Data.EntityFramework.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Execution.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Execution.Abstractions.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Fetching.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Language.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Language.SyntaxTree.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Language.Utf8.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Language.Visitors.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Language.Web.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Subscriptions.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Subscriptions.InMemory.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Transport.Sockets.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Types.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Types.CursorPagination.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Types.Mutations.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Types.OffsetPagination.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Types.Scalars.Upload.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Utilities.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Utilities.Introspection.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\HotChocolate.Validation.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Humanizer.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Authentication.WebAssembly.Msal.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Identity.Web.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Identity.Web.UI.Views.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Identity.Web.UI.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Namotion.Reflection.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\NJsonSchema.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\NJsonSchema.Yaml.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\NSwag.Annotations.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\NSwag.AspNetCore.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\NSwag.Core.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\NSwag.Core.Yaml.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\NSwag.Generation.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\NSwag.Generation.AspNetCore.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\Radzen.Blazor.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\YamlDotNet.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Client.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Shared.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Client.pdb
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\bin\Debug\net6.0\MovieLibrary.Shared.pdb
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.csproj.AssemblyReference.cache
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.AssemblyInfoInputs.cache
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.AssemblyInfo.cs
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.csproj.CoreCompileInputs.cache
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.RazorAssemblyInfo.cache
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.RazorAssemblyInfo.cs
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\scopedcss\bundle\MovieLibrary.Server.styles.css
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets\msbuild.MovieLibrary.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets\msbuild.MovieLibrary.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.MovieLibrary.Server.props
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MovieLibrary.Server.props
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MovieLibrary.Server.props
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\MovieLib.63807318.Up2Date
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\refint\MovieLibrary.Server.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.xml
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.pdb
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\MovieLibrary.Server.genruntimeconfig.cache
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Server\obj\Debug\net6.0\ref\MovieLibrary.Server.dll

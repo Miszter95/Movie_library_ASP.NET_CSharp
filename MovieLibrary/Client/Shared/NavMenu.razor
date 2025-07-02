@@ -1,0 +1,48 @@
+﻿<div class="top-row ps-3 navbar navbar-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="">MovieLibrary</a>
+        <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+    </div>
+</div>
+
+<div class="@NavMenuCssClass" @onclick="ToggleNavMenu">
+    <nav class="flex-column">
+        <div class="nav-item px-3">
+            <SearchField/>
+        </div>
+        <hr style="background-color: white; height: 5px;" />
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="movies" Match="NavLinkMatch.All">
+                <i class="bi bi-film" aria-hidden="true"></i> Movies
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="genres">
+                <i class="bi bi-tv" aria-hidden="true"></i> Genres
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="actors">
+                <i class="bi bi-person-fill" aria-hidden="true"></i> Actors
+            </NavLink>
+        </div>
+        <!--<div class="nav-item px-3">
+            <NavLink class="nav-link" href="googlemaps">
+                <i class="bi bi-geo-alt-fill" aria-hidden="true"></i> Google Maps
+            </NavLink>
+        </div>-->
+    </nav>
+</div>
+
+@code {
+    private bool collapseNavMenu = true;
+
+    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}

@@ -1,0 +1,82 @@
+﻿@page "/actors/{id:int}"
+@using Microsoft.AspNetCore.Authorization
+@using Microsoft.AspNetCore.Components.WebAssembly.Authentication
+@using MovieLibrary.Shared
+@attribute [Authorize]
+@inject IActorService ActorService
+@inject NavigationManager navigate
+
+<PageTitle>@actor.Name</PageTitle>
+
+<h1>@actor.Name</h1>
+
+<p style="text-align: center">
+    <a class="btn btn-primary" href="/actors/@actor.Id/edit"><i class="bi bi-pencil-square"> Edit</i></a>
+    <button class="btn btn-danger" @onclick="(() =>DeleteActor(actor.Id))"><i class="bi bi-trash-fill"> Delete</i></button>
+</p>
+
+<table>
+            <tr>
+                <th>Born:</th>
+                <td>@actor.Born.ToString("d")</td>
+                <th>Age:</th>
+                <td>@age</td>
+                <th>Height:</th>
+                <td>@actor.Height</td>
+            </tr>
+            <tr>
+                <th>Place of birth:</th>
+                <td colspan="5">@actor.PlaceOfBirth</td>
+            </tr>
+            <tr>
+                <th>Partner:</th>
+                <td colspan="5">@actor.Partner</td>
+            </tr>
+</table>
+
+@code {
+    private Actor actor = new Actor("", "","");
+
+    private int age = 0;
+
+    [Parameter]
+    public int Id { get; set; }
+
+    protected override async Task OnParametersSetAsync()
+    {
+        try
+        {
+            actor = await ActorService.LoadActorDetails(Id);
+            age = DateTime.Today.Year - actor.Born.Year;
+
+            if (DateTime.Today.Month < actor.Born.Month)
+            {
+                age--;
+            }
+            else if (DateTime.Today.Month == actor.Born.Month)
+            {
+                if (DateTime.Today.Day < actor.Born.Day)
+                {
+                    age--;
+                }
+            }
+        }
+        catch (AccessTokenNotAvailableException exception)
+        {
+            exception.Redirect();
+        }
+    }
+
+    public void DeleteActor(int id)
+    {
+        try
+        {
+            ActorService.DeleteActor(id);
+            navigate.NavigateTo("/actors");
+        }
+        catch (AccessTokenNotAvailableException exception)
+        {
+            exception.Redirect();
+        }
+    }
+}

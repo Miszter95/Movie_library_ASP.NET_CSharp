@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MovieLibrary.Server</name>
+    </assembly>
+    <members>
+        <member name="M:MovieLibrary.Server.Controllers.ActorController.GetAllActor">
+            <summary>
+            Get all actor
+            </summary>
+            <returns>Returns all actor</returns>
+            <response code="200">Listing successful</response>
+        </member>
+        <member name="M:MovieLibrary.Server.Controllers.ActorController.GetSortAllActor(System.String)">
+            <summary>
+            Get all actor sorted by the given sort parameter
+            </summary>
+            <param name="order">Actor's sort parameter</param>
+            <returns>Returns all actor sorted by the given sort parameter</returns>
+            <response code="200">Listing successful</response>
+        </member>
+        <member name="M:MovieLibrary.Server.Controllers.ActorController.SearchActors(System.String)">
+            <summary>
+            Get a specific actor with the given name
+            </summary>
+            <param name="condition">Actor's name</param>
+            <returns>Returns a specific actor with the given name</returns>
+            <response code="200">Listing successful</response>
+        </member>
+        <member name="M:MovieLibrary.Server.Controllers.ActorController.GetActor(System.Int32)">
+            <summary>
+            Get a specific actor with the given identifier
+            </summary>
+            <param name="id">Actor's identifier</param>
+            <returns>Returns a specific actor with the given identifier</returns>
+            <response code="200">Listing successful</response>
+        </member>
+        <member name="M:MovieLibrary.Server.Controllers.ActorController.InsertActor(MovieLibrary.Shared.Actor)">
+            <summary>
+            Create a new actor
+            </summary>
+            <param name="actor">Actor to be created</param>
+            <returns>Returns the created actor</returns>
+            <response code="201">Create successful</response>
+        </member>
+        <member name="M:MovieLibrary.Server.Controllers.ActorController.UpdateActor(System.Int32,MovieLibrary.Shared.Actor)">
+            <summary>
+            Update a specific actor with the given identifier
+            </summary>
+            <param name="id">Actor's identifier</param>
+            <param name="actor">Actor to be updated</param>
+            <returns>Returns a NoContent object</returns>
+            <response code="204">Update successful</response>
+        </member>
+        <member name="M:MovieLibrary.Server.Controllers.ActorController.DeleteActor(System.Int32)">
+            <summary>
+            Delete a specific actor with the given identifier
+            </summary>
+            <param name="id">Actor's identifier</param>
+            <returns>Returns a NoContent object</returns>
+            <response code="204">Delete successful</response>
+        </member>
+        <member name="M:MovieLibrary.Server.Controllers.GenreController.GetAllGenre">
+            <summary>
+            Get all genre
+            </summary>
+            <returns>Returns all genre</returns>
+            <response code="200">Listing successful</response>
+        </member>
+        <member name="M:MovieLibrary.Server.Controllers.GenreController.GetGenre(System.Int32)">
+            <summary>
+            Get a specific genre with the given identifier
+            </summary>
+            <param name="id">Genre's identifier</param>
+            <returns>Returns a specific genre with the given identifier</returns>
+            <response code="200">Listing successful</response>
+        </member>
+        <member name="M:MovieLibrary.Server.Controllers.GenreController.InsertGenre(MovieLibrary.Shared.Genre)">
+            <summary>
+            Create a new genre
+            </summary>
+            <param name="genre">Genre to be created</param>
+            <returns>Returns the created genre</returns>
+            <response code="201">Create successful</response>
+        </member>
+        <member name="M:MovieLibrary.Server.Controllers.GenreController.UpdateGenre(System.Int32,MovieLibrary.Shared.Genre)">
+            <summary>
+            Update a specific genre with the given identifier
+            </summary>
+            <param name="id">Genre's identifier</param>
+            <param name="genre">Genre to be updated</param>
+            <returns>Returns a NoContent object</returns>
+            <response code="204">Update successful</response>
+        </member>
+        <member name="M:MovieLibrary.Server.Controllers.GenreController.DeleteGenre(System.Int32)">
+            <summary>
+            Delete a specific genre with the given identifier
+            </summary>
+            <param name="id">Genre's identifier</param>
+            <returns>Returns a NoContent object</returns>
+            <response code="204">Delete successful</response>
+        </member>
+        <member name="M:MovieLibrary.Server.Controllers.MovieController.GetAllMovie">
+            <summary>
+            Get all movie
+            </summary>
+            <returns>Returns all movie</returns>
+            <response code="200">Listing successful</response>
+        </member>
+        <member name="M:MovieLibrary.Server.Controllers.MovieController.GetSortAllMovie(System.String)">
+            <summary>
+            Get all movie sorted by the given sort parameter
+            </summary>
+            <param name="order">Movie's sort parameter</param>
+            <returns>Returns all movie sorted by the given sort parameter</returns>
+            <response code="200">Listing successful</response>
+        </member>
+        <member name="M:MovieLibrary.Server.Controllers.MovieController.GetGenreSortAllMovie(System.String,System.Int32)">
+            <summary>
+            Get all movie sorted by the given genre then sorted by the given sort parameter
+            </summary>
+            <param name="genre">Movie's genre sort parameter</param>
+            <param name="order">Movie's sort parameter</param>
+            <returns>Returns all movie sorted by the given genre then sorted by the given sort parameter</returns>
+            <response code="200">Listing successful</response>
+        </member>
+        <member name="M:MovieLibrary.Server.Controllers.MovieController.SearchMovies(System.String)">
+            <summary>
+            Get a specific movie with the given title
+            </summary>
+            <param name="condition">Movie's title</param>
+            <returns>Returns a specific movie with the given title</returns>
+            <response code="200">Listing successful</response>
+        </member>
+        <member name="M:MovieLibrary.Server.Controllers.MovieController.GetMovie(System.Int32)">
+            <summary>
+            Get a specific movie with the given identifier
+            </summary>
+            <param name="id">Movie's identifier</param>
+            <returns>Returns a specific movie with the given identifier</returns>
+            <response code="200">Listing successful</response>
+        </member>
+        <member name="M:MovieLibrary.Server.Controllers.MovieController.InsertMovie(MovieLibrary.Shared.Movie)">
+            <summary>
+            Create a new movie
+            </summary>
+            <param name="movie">Movie to be created</param>
+            <returns>Returns the created movie</returns>
+            <response code="201">Create successful</response>
+        </member>
+        <member name="M:MovieLibrary.Server.Controllers.MovieController.UpdateMovie(System.Int32,MovieLibrary.Shared.Movie)">
+            <summary>
+            Update a specific movie with the given identifier
+            </summary>
+            <param name="id">Movie's identifier</param>
+            <param name="movie">Movie to be updated</param>
+            <returns>Returns a NoContent object</returns>
+            <response code="204">Update successful</response>
+        </member>
+        <member name="M:MovieLibrary.Server.Controllers.MovieController.UpdateMovieGenre(System.Int32,System.Collections.Generic.List{System.Int32})">
+            <summary>
+            Update a specific movie's genres with the given identifier
+            </summary>
+            <param name="id">Movie's identifier</param>
+            <param name="selectedgenres">Selected genres to update for the film</param>
+            <returns>Returns a NoContent object</returns>
+            <response code="204">Update successful</response>
+        </member>
+        <member name="M:MovieLibrary.Server.Controllers.MovieController.UpdateMovieActor(System.Int32,System.Collections.Generic.List{System.Int32})">
+            <summary>
+            Update a specific movie's actors with the given identifier
+            </summary>
+            <param name="id">Movie's identifier</param>
+            <param name="selectedactors">Selected actors to update for the film</param>
+            <returns>Returns a NoContent object</returns>
+            <response code="204">Update successful</response>
+        </member>
+        <member name="M:MovieLibrary.Server.Controllers.MovieController.DeleteMovie(System.Int32)">
+            <summary>
+            Delete a specific movie with the given identifier
+            </summary>
+            <param name="id">Movie's identifier</param>
+            <returns>Returns a NoContent object</returns>
+            <response code="204">Delete successful</response>
+        </member>
+    </members>
+</doc>

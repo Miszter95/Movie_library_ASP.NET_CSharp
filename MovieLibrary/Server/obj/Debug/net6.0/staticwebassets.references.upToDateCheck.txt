@@ -1,0 +1,4 @@
+D:\kesz\MovieLibrary\Client\obj\Debug\net6.0\staticwebassets.build.json
+D:\.Net_projekt\MovieLibrary\Client\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Client\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Client\obj\Debug\net6.0\staticwebassets.build.json

@@ -1,0 +1,1060 @@
+{
+  "x-generator": "NSwag v13.19.0.0 (NJsonSchema v10.9.0.0 (Newtonsoft.Json v10.0.0.0))",
+  "openapi": "3.0.0",
+  "info": {
+    "title": "My Title",
+    "version": "1.0.0"
+  },
+  "paths": {
+    "/api/Actor": {
+      "get": {
+        "tags": [
+          "Actor"
+        ],
+        "summary": "Get all actor",
+        "operationId": "Actor_GetAllActor",
+        "responses": {
+          "200": {
+            "description": "Listing successful",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Actor"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "bearer": []
+          }
+        ]
+      },
+      "post": {
+        "tags": [
+          "Actor"
+        ],
+        "summary": "Create a new actor",
+        "operationId": "Actor_InsertActor",
+        "requestBody": {
+          "x-name": "actor",
+          "description": "Actor to be created",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Actor"
+              }
+            }
+          },
+          "required": true,
+          "x-position": 1
+        },
+        "responses": {
+          "200": {
+            "description": "Returns the created actor",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Actor"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "bearer": []
+          }
+        ]
+      }
+    },
+    "/api/Actor/order/{order}": {
+      "get": {
+        "tags": [
+          "Actor"
+        ],
+        "summary": "Get all actor sorted by the given sort parameter",
+        "operationId": "Actor_GetSortAllActor",
+        "parameters": [
+          {
+            "name": "order",
+            "in": "path",
+            "required": true,
+            "description": "Actor's sort parameter",
+            "schema": {
+              "type": "string"
+            },
+            "x-position": 1
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Listing successful",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Actor"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "bearer": []
+          }
+        ]
+      }
+    },
+    "/api/Actor/search/{condition}": {
+      "get": {
+        "tags": [
+          "Actor"
+        ],
+        "summary": "Get a specific actor with the given name",
+        "operationId": "Actor_SearchActors",
+        "parameters": [
+          {
+            "name": "condition",
+            "in": "path",
+            "required": true,
+            "description": "Actor's name",
+            "schema": {
+              "type": "string"
+            },
+            "x-position": 1
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Listing successful",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Actor"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "bearer": []
+          }
+        ]
+      }
+    },
+    "/api/Actor/{id}": {
+      "get": {
+        "tags": [
+          "Actor"
+        ],
+        "summary": "Get a specific actor with the given identifier",
+        "operationId": "Actor_GetActor",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "Actor's identifier",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            },
+            "x-position": 1
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Listing successful",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Actor"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "bearer": []
+          }
+        ]
+      },
+      "put": {
+        "tags": [
+          "Actor"
+        ],
+        "summary": "Update a specific actor with the given identifier",
+        "operationId": "Actor_UpdateActor",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "Actor's identifier",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            },
+            "x-position": 1
+          }
+        ],
+        "requestBody": {
+          "x-name": "actor",
+          "description": "Actor to be updated",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Actor"
+              }
+            }
+          },
+          "required": true,
+          "x-position": 2
+        },
+        "responses": {
+          "200": {
+            "description": "Returns a NoContent object",
+            "content": {
+              "application/octet-stream": {
+                "schema": {
+                  "type": "string",
+                  "format": "binary"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "bearer": []
+          }
+        ]
+      },
+      "delete": {
+        "tags": [
+          "Actor"
+        ],
+        "summary": "Delete a specific actor with the given identifier",
+        "operationId": "Actor_DeleteActor",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "Actor's identifier",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            },
+            "x-position": 1
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Returns a NoContent object",
+            "content": {
+              "application/octet-stream": {
+                "schema": {
+                  "type": "string",
+                  "format": "binary"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "bearer": []
+          }
+        ]
+      }
+    },
+    "/api/Genre": {
+      "get": {
+        "tags": [
+          "Genre"
+        ],
+        "summary": "Get all genre",
+        "operationId": "Genre_GetAllGenre",
+        "responses": {
+          "200": {
+            "description": "Listing successful",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Genre"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "bearer": []
+          }
+        ]
+      },
+      "post": {
+        "tags": [
+          "Genre"
+        ],
+        "summary": "Create a new genre",
+        "operationId": "Genre_InsertGenre",
+        "requestBody": {
+          "x-name": "genre",
+          "description": "Genre to be created",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Genre"
+              }
+            }
+          },
+          "required": true,
+          "x-position": 1
+        },
+        "responses": {
+          "200": {
+            "description": "Returns the created genre",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Genre"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "bearer": []
+          }
+        ]
+      }
+    },
+    "/api/Genre/{id}": {
+      "get": {
+        "tags": [
+          "Genre"
+        ],
+        "summary": "Get a specific genre with the given identifier",
+        "operationId": "Genre_GetGenre",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "Genre's identifier",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            },
+            "x-position": 1
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Listing successful",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Genre"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "bearer": []
+          }
+        ]
+      },
+      "put": {
+        "tags": [
+          "Genre"
+        ],
+        "summary": "Update a specific genre with the given identifier",
+        "operationId": "Genre_UpdateGenre",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "Genre's identifier",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            },
+            "x-position": 1
+          }
+        ],
+        "requestBody": {
+          "x-name": "genre",
+          "description": "Genre to be updated",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Genre"
+              }
+            }
+          },
+          "required": true,
+          "x-position": 2
+        },
+        "responses": {
+          "200": {
+            "description": "Returns a NoContent object",
+            "content": {
+              "application/octet-stream": {
+                "schema": {
+                  "type": "string",
+                  "format": "binary"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "bearer": []
+          }
+        ]
+      },
+      "delete": {
+        "tags": [
+          "Genre"
+        ],
+        "summary": "Delete a specific genre with the given identifier",
+        "operationId": "Genre_DeleteGenre",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "Genre's identifier",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            },
+            "x-position": 1
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Returns a NoContent object",
+            "content": {
+              "application/octet-stream": {
+                "schema": {
+                  "type": "string",
+                  "format": "binary"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "bearer": []
+          }
+        ]
+      }
+    },
+    "/api/Movie": {
+      "get": {
+        "tags": [
+          "Movie"
+        ],
+        "summary": "Get all movie",
+        "operationId": "Movie_GetAllMovie",
+        "responses": {
+          "200": {
+            "description": "Listing successful",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Movie"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "bearer": []
+          }
+        ]
+      },
+      "post": {
+        "tags": [
+          "Movie"
+        ],
+        "summary": "Create a new movie",
+        "operationId": "Movie_InsertMovie",
+        "requestBody": {
+          "x-name": "movie",
+          "description": "Movie to be created",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Movie"
+              }
+            }
+          },
+          "required": true,
+          "x-position": 1
+        },
+        "responses": {
+          "200": {
+            "description": "Returns the created movie",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Movie"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "bearer": []
+          }
+        ]
+      }
+    },
+    "/api/Movie/order/{order}": {
+      "get": {
+        "tags": [
+          "Movie"
+        ],
+        "summary": "Get all movie sorted by the given sort parameter",
+        "operationId": "Movie_GetSortAllMovie",
+        "parameters": [
+          {
+            "name": "order",
+            "in": "path",
+            "required": true,
+            "description": "Movie's sort parameter",
+            "schema": {
+              "type": "string"
+            },
+            "x-position": 1
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Listing successful",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Movie"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "bearer": []
+          }
+        ]
+      }
+    },
+    "/api/Movie/order/bygenre/{genre}/{order}": {
+      "get": {
+        "tags": [
+          "Movie"
+        ],
+        "summary": "Get all movie sorted by the given genre then sorted by the given sort parameter",
+        "operationId": "Movie_GetGenreSortAllMovie",
+        "parameters": [
+          {
+            "name": "genre",
+            "in": "path",
+            "required": true,
+            "description": "Movie's genre sort parameter",
+            "schema": {
+              "type": "string"
+            },
+            "x-position": 1
+          },
+          {
+            "name": "order",
+            "in": "path",
+            "required": true,
+            "description": "Movie's sort parameter",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            },
+            "x-position": 2
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Listing successful",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Movie"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "bearer": []
+          }
+        ]
+      }
+    },
+    "/api/Movie/search/{condition}": {
+      "get": {
+        "tags": [
+          "Movie"
+        ],
+        "summary": "Get a specific movie with the given title",
+        "operationId": "Movie_SearchMovies",
+        "parameters": [
+          {
+            "name": "condition",
+            "in": "path",
+            "required": true,
+            "description": "Movie's title",
+            "schema": {
+              "type": "string"
+            },
+            "x-position": 1
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Listing successful",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Movie"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "bearer": []
+          }
+        ]
+      }
+    },
+    "/api/Movie/{id}": {
+      "get": {
+        "tags": [
+          "Movie"
+        ],
+        "summary": "Get a specific movie with the given identifier",
+        "operationId": "Movie_GetMovie",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "Movie's identifier",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            },
+            "x-position": 1
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Listing successful",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Movie"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "bearer": []
+          }
+        ]
+      },
+      "put": {
+        "tags": [
+          "Movie"
+        ],
+        "summary": "Update a specific movie with the given identifier",
+        "operationId": "Movie_UpdateMovie",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "Movie's identifier",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            },
+            "x-position": 1
+          }
+        ],
+        "requestBody": {
+          "x-name": "movie",
+          "description": "Movie to be updated",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Movie"
+              }
+            }
+          },
+          "required": true,
+          "x-position": 2
+        },
+        "responses": {
+          "200": {
+            "description": "Returns a NoContent object",
+            "content": {
+              "application/octet-stream": {
+                "schema": {
+                  "type": "string",
+                  "format": "binary"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "bearer": []
+          }
+        ]
+      },
+      "delete": {
+        "tags": [
+          "Movie"
+        ],
+        "summary": "Delete a specific movie with the given identifier",
+        "operationId": "Movie_DeleteMovie",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "Movie's identifier",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            },
+            "x-position": 1
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Returns a NoContent object",
+            "content": {
+              "application/octet-stream": {
+                "schema": {
+                  "type": "string",
+                  "format": "binary"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "bearer": []
+          }
+        ]
+      }
+    },
+    "/api/Movie/{id}/addgenre": {
+      "put": {
+        "tags": [
+          "Movie"
+        ],
+        "summary": "Update a specific movie's genres with the given identifier",
+        "operationId": "Movie_UpdateMovieGenre",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "Movie's identifier",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            },
+            "x-position": 1
+          }
+        ],
+        "requestBody": {
+          "x-name": "selectedgenres",
+          "description": "Selected genres to update for the film",
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "array",
+                "items": {
+                  "type": "integer",
+                  "format": "int32"
+                }
+              }
+            }
+          },
+          "required": true,
+          "x-position": 2
+        },
+        "responses": {
+          "200": {
+            "description": "Returns a NoContent object",
+            "content": {
+              "application/octet-stream": {
+                "schema": {
+                  "type": "string",
+                  "format": "binary"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "bearer": []
+          }
+        ]
+      }
+    },
+    "/api/Movie/{id}/addactor": {
+      "put": {
+        "tags": [
+          "Movie"
+        ],
+        "summary": "Update a specific movie's actors with the given identifier",
+        "operationId": "Movie_UpdateMovieActor",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "Movie's identifier",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            },
+            "x-position": 1
+          }
+        ],
+        "requestBody": {
+          "x-name": "selectedactors",
+          "description": "Selected actors to update for the film",
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "array",
+                "items": {
+                  "type": "integer",
+                  "format": "int32"
+                }
+              }
+            }
+          },
+          "required": true,
+          "x-position": 2
+        },
+        "responses": {
+          "200": {
+            "description": "Returns a NoContent object",
+            "content": {
+              "application/octet-stream": {
+                "schema": {
+                  "type": "string",
+                  "format": "binary"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "bearer": []
+          }
+        ]
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Actor": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "name",
+          "born",
+          "placeOfBirth"
+        ],
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "type": "string",
+            "maxLength": 30,
+            "minLength": 0
+          },
+          "born": {
+            "type": "string",
+            "format": "date-time",
+            "minLength": 1
+          },
+          "placeOfBirth": {
+            "type": "string",
+            "maxLength": 40,
+            "minLength": 0
+          },
+          "height": {
+            "type": "number",
+            "format": "double"
+          },
+          "partner": {
+            "type": "string"
+          }
+        }
+      },
+      "Genre": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "name",
+          "description"
+        ],
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "type": "string",
+            "maxLength": 30,
+            "minLength": 0
+          },
+          "description": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      },
+      "Movie": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "title"
+        ],
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "title": {
+            "type": "string",
+            "minLength": 1
+          },
+          "genres": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Genre"
+            }
+          },
+          "length": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "releaseDate": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "directors": {
+            "type": "string"
+          },
+          "writers": {
+            "type": "string"
+          },
+          "plot": {
+            "type": "string"
+          },
+          "certificate": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "metaScore": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "actors": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Actor"
+            }
+          }
+        }
+      }
+    },
+    "securitySchemes": {
+      "bearer": {
+        "type": "oauth2",
+        "description": "B2C authentication",
+        "flows": {
+          "implicit": {
+            "authorizationUrl": "https://movielibrary.b2clogin.com/movielibrary.onmicrosoft.com/B2C_1_signupsignin1/oauth2/v2.0/authorize",
+            "tokenUrl": "https://movielibrary.b2clogin.com/movielibrary.onmicrosoft.com/B2C_1_signupsignin1/oauth2/v2.0/token",
+            "scopes": {
+              "https://movielibrary.onmicrosoft.com/3655e4d8-bfea-4cd4-a4e3-307bc34b96c6/Api.ReadWrite": "Access the api as the signed-in user"
+            }
+          }
+        }
+      }
+    }
+  },
+  "security": [
+    {
+      "bearer": []
+    }
+  ]
+}

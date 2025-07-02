@@ -1,0 +1,21 @@
+﻿@page "/googlemaps"
+@using Microsoft.AspNetCore.Authorization;
+@inject IJSRuntime JSRuntime
+
+<PageTitle>Google Maps</PageTitle>
+
+<h3>Google Maps</h3>
+
+<div id="map" style="height:500px;width:100%;">
+</div>
+
+@code {
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await JSRuntime.InvokeVoidAsync("initMap", null);
+        }
+    }
+}

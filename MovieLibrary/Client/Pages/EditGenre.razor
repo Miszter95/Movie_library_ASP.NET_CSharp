@@ -1,0 +1,79 @@
+﻿@page "/genres/{id:int}/edit"
+@using Microsoft.AspNetCore.Authorization
+@using Microsoft.AspNetCore.Components.WebAssembly.Authentication
+@using MovieLibrary.Shared
+@attribute [Authorize]
+@inject IGenreService GenreService
+@inject NavigationManager navigate
+
+<PageTitle>Edit Genre</PageTitle>
+
+@if (genre.Id == 0)
+{
+    <h1>Create a new Genre</h1>
+}
+else
+{
+    <h1>Edit @genre.Name</h1>
+}
+
+<EditForm Model="genre" OnValidSubmit="ValidSubmit">
+
+    <div class="form-group">
+        <label>Name:</label>
+        <InputText @bind-Value="genre.Name" class="form-control"></InputText>
+    </div>
+    <div class="form-group">
+        <label>Description:</label>
+        <InputTextArea @bind-Value="genre.Description" class="form-control"></InputTextArea>
+    </div>
+    <div style="padding-top: 10px; text-align: center">
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </div>
+
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+</EditForm>
+
+@code {
+    private Genre genre = new Genre("", "");
+
+    [Parameter]
+    public int Id { get; set; }
+
+    protected override async Task OnParametersSetAsync()
+    {
+        try
+        {
+            if (Id != 0)
+            {
+                genre = await GenreService.LoadGenreDetails(Id);
+            }
+        }
+        catch (AccessTokenNotAvailableException exception)
+        {
+            exception.Redirect();
+        }
+    }
+
+    public async void ValidSubmit()
+    {
+        try
+        {
+            if (genre.Id == 0)
+            {
+                await GenreService.CreateGenre(genre);
+                navigate.NavigateTo("/genres");
+            }
+            else
+            {
+                await GenreService.UpdateGenre(genre, genre.Id);
+                navigate.NavigateTo("/genres");
+            }
+        }
+        catch (AccessTokenNotAvailableException exception)
+        {
+            exception.Redirect();
+        }
+    }
+}

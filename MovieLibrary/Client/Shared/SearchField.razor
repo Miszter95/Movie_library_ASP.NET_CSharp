@@ -1,0 +1,103 @@
+﻿@inject IMovieService MovieService
+@inject IActorService ActorService
+@inject NavigationManager navigate
+@using Microsoft.AspNetCore.Authorization
+@using Microsoft.AspNetCore.Components.WebAssembly.Authentication
+@using MovieLibrary.Shared
+@attribute [Authorize]
+
+<p style="color: white">Search movie by title:</p>
+<BlazoredTypeahead SearchMethod="@SearchMovie"
+                   TValue="Movie"
+                   TItem="Movie"
+                   Value="selectedMovie"
+                   ValueChanged="ChangedMovie"
+                   DisableClear
+                   ValueExpression="@(() => selectedMovie)"
+                   placeholder="Search by movie title">
+    <SelectedTemplate>
+        @context.Title
+    </SelectedTemplate>
+    <ResultTemplate>
+        @context.Title
+    </ResultTemplate>
+    <NotFoundTemplate>
+        There weren't any movies found with this title.'
+    </NotFoundTemplate>
+</BlazoredTypeahead>
+
+<p style="padding-top: 15px; color: white">Search actor by name:</p>
+<BlazoredTypeahead SearchMethod="@SearchActor"
+                   TValue="Actor"
+                   TItem="Actor"
+                   Value="selectedActor"
+                   ValueChanged="ChangedActor"
+                          DisableClear
+                   ValueExpression="@(() => selectedActor)"
+                   placeholder="Search by actor name">
+    <SelectedTemplate>
+        @context.Name
+    </SelectedTemplate>
+    <ResultTemplate>
+        @context.Name
+    </ResultTemplate>
+    <NotFoundTemplate>
+        There weren't any actors found with this name.'
+    </NotFoundTemplate>
+</BlazoredTypeahead>
+
+@code {
+    private Movie? selectedMovie;
+
+    private Actor? selectedActor;
+
+    private void ChangedMovie(Movie movie)
+    {
+        if (movie == null)
+        {
+            return;
+        }
+
+        selectedMovie = movie;
+        navigate.NavigateTo($"movies/{selectedMovie.Id}");
+    }
+
+    private void ChangedActor(Actor actor)
+    {
+        if (actor == null)
+        {
+            return;
+        }
+
+        selectedActor = actor;
+        navigate.NavigateTo($"actors/{selectedActor.Id}");
+    }
+
+    public async Task<IEnumerable<Movie>> SearchMovie(string condition)
+    {
+        try
+        {
+            return await MovieService.SearhMovies(condition);
+        }
+        catch (AccessTokenNotAvailableException exception)
+        {
+            exception.Redirect();
+        }
+
+        return new List<Movie>();
+    }
+
+    public async Task<IEnumerable<Actor>> SearchActor(string condition)
+    {
+        try
+        {
+            return await ActorService.SearhActors(condition);
+        }
+        catch (AccessTokenNotAvailableException exception)
+        {
+            exception.Redirect();
+        }
+
+        return new List<Actor>();
+    }
+}

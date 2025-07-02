@@ -1,0 +1,148 @@
+﻿@page "/movies/{id:int}/edit"
+@using Microsoft.AspNetCore.Authorization
+@using Microsoft.AspNetCore.Components.WebAssembly.Authentication
+@using MovieLibrary.Shared
+@attribute [Authorize]
+@inject IMovieService MovieService
+@inject IGenreService GenreService
+@inject IActorService ActorService
+@inject NavigationManager navigate
+
+<PageTitle>Edit Movie</PageTitle>
+
+@if (movie.Id == 0)
+{
+    <h1>Create a new Movie</h1>
+}
+else
+{
+    <h1>Edit @movie.Title</h1>
+}
+
+<EditForm Model="movie" OnValidSubmit="ValidSubmit">
+    <div class="form-group">
+        <label>Title:</label>
+        <InputText @bind-Value="movie.Title" class="form-control"></InputText>
+    </div>
+    <div class="form-group">
+        <label>Release date:</label>
+        <InputNumber @bind-Value="movie.ReleaseDate" class="form-control"></InputNumber>
+    </div>
+    <div class="form-group">
+        <label>Length (mins):</label>
+        <InputNumber @bind-Value="movie.Length" class="form-control"></InputNumber>
+    </div>
+    <div class="form-group">
+        <label>Certificate:</label>
+        <InputNumber @bind-Value="movie.Certificate" class="form-control"></InputNumber>
+    </div>
+    <div class="form-group">
+        <label>MetaScore:</label>
+        <InputNumber @bind-Value="movie.MetaScore" class="form-control"></InputNumber>
+    </div>
+    <div class="form-group">
+        <label>Genre(s):</label><br/>
+        
+        <RadzenDropDown @bind-Value="genreList" Data="@GenreService.Genres" Placeholder="Select genre" 
+                        TextProperty="Name" ValueProperty="Id" Multiple=true AllowClear=true Chips=true
+                        Style="width: 100%"></RadzenDropDown>
+    </div>
+    <div class="form-group">
+        <label>Director(s):</label>
+        <InputText @bind-Value="movie.Directors" class="form-control"></InputText>
+    </div>
+    <div class="form-group">
+        <label>Writer(s):</label>
+        <InputText @bind-Value="movie.Writers" class="form-control"></InputText>
+    </div>
+    <div class="form-group">
+        <label>Plot:</label>
+        <InputTextArea @bind-Value="movie.Plot" class="form-control"></InputTextArea>
+    </div>
+    <div class="form-group">
+        <label>Actor(s):</label><br />
+        
+        <RadzenDropDown @bind-Value="actorList" Data="@ActorService.Actors" Placeholder="Select actor"
+                        TextProperty="Name" ValueProperty="Id" Multiple=true AllowClear=true Chips=true
+                        Style="width: 100%"></RadzenDropDown>
+    </div>
+    <div style="padding-top: 10px; text-align: center">
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </div>
+
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+</EditForm>
+
+@code {
+    private Movie movie = new Movie("", "", "", "");
+
+    List<int> genreList = new List<int>();
+    List<int> actorList = new List<int>();
+
+    [Parameter]
+    public int Id { get; set; }
+
+    protected override async Task OnParametersSetAsync()
+    {
+        try
+        {
+            await GenreService.LoadGenres();
+            await ActorService.LoadSortActors("");
+
+            if (Id != 0)
+            {
+                movie = await MovieService.LoadMovieDetails(Id);
+            }
+
+            foreach (var actor in movie.Actors)
+            {
+                actorList.Add(actor.Id);
+            }
+
+            foreach (var genre in movie.Genres)
+            {
+                genreList.Add(genre.Id);
+            }
+        }
+        catch (AccessTokenNotAvailableException exception)
+        {
+            exception.Redirect();
+        }
+    }
+
+    public async void ValidSubmit()
+    {
+
+        try
+        {
+            if (movie.Id == 0)
+            {
+
+                foreach (var genre in genreList)
+                {
+                    movie.Genres.Add(await GenreService.LoadGenreDetails(genre));
+                }
+
+                foreach (var actor in actorList)
+                {
+                    movie.Actors.Add(await ActorService.LoadActorDetails(actor));
+                }
+                
+                await MovieService.CreateMovie(movie);
+                navigate.NavigateTo("/movies");
+            }
+            else
+            {
+                await MovieService.UpdateMovie(movie, movie.Id);
+                await MovieService.UpdateMovieGenre(movie.Id, genreList);
+                await MovieService.UpdateMovieActor(movie.Id, actorList);
+                navigate.NavigateTo("/movies");
+            }
+        }
+        catch (AccessTokenNotAvailableException exception)
+        {
+            exception.Redirect();
+        }
+    }
+}

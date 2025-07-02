@@ -1,0 +1,8 @@
+﻿span {
+    width: 1em;
+    height: 1em;
+    text-align: center;
+    color: black;
+    background-color: white;
+    border-radius: 1000px;
+}

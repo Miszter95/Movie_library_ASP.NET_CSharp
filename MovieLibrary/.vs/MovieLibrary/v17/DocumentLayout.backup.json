@@ -1,0 +1,649 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|c:\\users\\andr\u00E1s\\downloads\\net_projekt\\.net_projekt\\movielibrary\\client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|solutionrelative:client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|c:\\users\\andr\u00E1s\\downloads\\net_projekt\\.net_projekt\\movielibrary\\client\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|solutionrelative:client\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|c:\\users\\andr\u00E1s\\downloads\\net_projekt\\.net_projekt\\movielibrary\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|c:\\users\\andr\u00E1s\\downloads\\net_projekt\\.net_projekt\\movielibrary\\client\\pages\\googlemaps.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|solutionrelative:client\\pages\\googlemaps.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA7E554B-CCCE-435D-B39B-232FCBD6237B}|Server\\MovieLibrary.Server.csproj|c:\\users\\andr\u00E1s\\downloads\\net_projekt\\.net_projekt\\movielibrary\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA7E554B-CCCE-435D-B39B-232FCBD6237B}|Server\\MovieLibrary.Server.csproj|solutionrelative:server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA7E554B-CCCE-435D-B39B-232FCBD6237B}|Server\\MovieLibrary.Server.csproj|c:\\users\\andr\u00E1s\\downloads\\net_projekt\\.net_projekt\\movielibrary\\server\\graphql\\actorqueryresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA7E554B-CCCE-435D-B39B-232FCBD6237B}|Server\\MovieLibrary.Server.csproj|solutionrelative:server\\graphql\\actorqueryresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA7E554B-CCCE-435D-B39B-232FCBD6237B}|Server\\MovieLibrary.Server.csproj|c:\\users\\andr\u00E1s\\downloads\\net_projekt\\.net_projekt\\movielibrary\\server\\data\\appdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA7E554B-CCCE-435D-B39B-232FCBD6237B}|Server\\MovieLibrary.Server.csproj|solutionrelative:server\\data\\appdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|c:\\users\\andr\u00E1s\\downloads\\net_projekt\\.net_projekt\\movielibrary\\client\\shared\\redirecttologin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|solutionrelative:client\\shared\\redirecttologin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|c:\\users\\andr\u00E1s\\downloads\\net_projekt\\.net_projekt\\movielibrary\\client\\shared\\logindisplay.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|solutionrelative:client\\shared\\logindisplay.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|c:\\users\\andr\u00E1s\\downloads\\net_projekt\\.net_projekt\\movielibrary\\client\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|solutionrelative:client\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|c:\\users\\andr\u00E1s\\downloads\\net_projekt\\.net_projekt\\movielibrary\\client\\shared\\searchfield.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|solutionrelative:client\\shared\\searchfield.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|c:\\users\\andr\u00E1s\\downloads\\net_projekt\\.net_projekt\\movielibrary\\client\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|solutionrelative:client\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|c:\\users\\andr\u00E1s\\downloads\\net_projekt\\.net_projekt\\movielibrary\\client\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|solutionrelative:client\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|c:\\users\\andr\u00E1s\\downloads\\net_projekt\\.net_projekt\\movielibrary\\client\\pages\\actors.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|solutionrelative:client\\pages\\actors.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|c:\\users\\andr\u00E1s\\downloads\\net_projekt\\.net_projekt\\movielibrary\\client\\pages\\authentication.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|solutionrelative:client\\pages\\authentication.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|c:\\users\\andr\u00E1s\\downloads\\net_projekt\\.net_projekt\\movielibrary\\client\\pages\\moviedetails.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|solutionrelative:client\\pages\\moviedetails.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|c:\\users\\andr\u00E1s\\downloads\\net_projekt\\.net_projekt\\movielibrary\\client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|solutionrelative:client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA7E554B-CCCE-435D-B39B-232FCBD6237B}|Server\\MovieLibrary.Server.csproj|c:\\users\\andr\u00E1s\\downloads\\net_projekt\\.net_projekt\\movielibrary\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA7E554B-CCCE-435D-B39B-232FCBD6237B}|Server\\MovieLibrary.Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2134E6B-A2D2-4FF9-88F6-12A215808AA1}|Shared\\MovieLibrary.Shared.csproj|c:\\users\\andr\u00E1s\\downloads\\net_projekt\\.net_projekt\\movielibrary\\shared\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2134E6B-A2D2-4FF9-88F6-12A215808AA1}|Shared\\MovieLibrary.Shared.csproj|solutionrelative:shared\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA7E554B-CCCE-435D-B39B-232FCBD6237B}|Server\\MovieLibrary.Server.csproj|c:\\users\\andr\u00E1s\\downloads\\net_projekt\\.net_projekt\\movielibrary\\server\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA7E554B-CCCE-435D-B39B-232FCBD6237B}|Server\\MovieLibrary.Server.csproj|solutionrelative:server\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA7E554B-CCCE-435D-B39B-232FCBD6237B}|Server\\MovieLibrary.Server.csproj|c:\\users\\andr\u00E1s\\downloads\\net_projekt\\.net_projekt\\movielibrary\\server\\controllers\\actorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA7E554B-CCCE-435D-B39B-232FCBD6237B}|Server\\MovieLibrary.Server.csproj|solutionrelative:server\\controllers\\actorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|c:\\users\\andr\u00E1s\\downloads\\net_projekt\\.net_projekt\\movielibrary\\client\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|solutionrelative:client\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA7E554B-CCCE-435D-B39B-232FCBD6237B}|Server\\MovieLibrary.Server.csproj|c:\\users\\andr\u00E1s\\downloads\\net_projekt\\.net_projekt\\movielibrary\\server\\services\\actorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA7E554B-CCCE-435D-B39B-232FCBD6237B}|Server\\MovieLibrary.Server.csproj|solutionrelative:server\\services\\actorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|c:\\users\\andr\u00E1s\\downloads\\net_projekt\\.net_projekt\\movielibrary\\client\\pages\\editmovie.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|solutionrelative:client\\pages\\editmovie.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA7E554B-CCCE-435D-B39B-232FCBD6237B}|Server\\MovieLibrary.Server.csproj|c:\\users\\andr\u00E1s\\downloads\\net_projekt\\.net_projekt\\movielibrary\\server\\graphql\\moviequeryresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA7E554B-CCCE-435D-B39B-232FCBD6237B}|Server\\MovieLibrary.Server.csproj|solutionrelative:server\\graphql\\moviequeryresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA7E554B-CCCE-435D-B39B-232FCBD6237B}|Server\\MovieLibrary.Server.csproj|c:\\users\\andr\u00E1s\\downloads\\net_projekt\\.net_projekt\\movielibrary\\server\\services\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA7E554B-CCCE-435D-B39B-232FCBD6237B}|Server\\MovieLibrary.Server.csproj|solutionrelative:server\\services\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA7E554B-CCCE-435D-B39B-232FCBD6237B}|Server\\MovieLibrary.Server.csproj|c:\\users\\andr\u00E1s\\downloads\\net_projekt\\.net_projekt\\movielibrary\\server\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA7E554B-CCCE-435D-B39B-232FCBD6237B}|Server\\MovieLibrary.Server.csproj|solutionrelative:server\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|c:\\users\\andr\u00E1s\\downloads\\net_projekt\\.net_projekt\\movielibrary\\client\\service\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|solutionrelative:client\\service\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|c:\\users\\andr\u00E1s\\downloads\\net_projekt\\.net_projekt\\movielibrary\\client\\pages\\movies.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|solutionrelative:client\\pages\\movies.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|c:\\users\\andr\u00E1s\\downloads\\net_projekt\\.net_projekt\\movielibrary\\client\\pages\\moviesbygenre.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|solutionrelative:client\\pages\\moviesbygenre.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|c:\\users\\andr\u00E1s\\downloads\\net_projekt\\.net_projekt\\movielibrary\\client\\interface\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|solutionrelative:client\\interface\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA7E554B-CCCE-435D-B39B-232FCBD6237B}|Server\\MovieLibrary.Server.csproj|c:\\users\\andr\u00E1s\\downloads\\net_projekt\\.net_projekt\\movielibrary\\server\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA7E554B-CCCE-435D-B39B-232FCBD6237B}|Server\\MovieLibrary.Server.csproj|solutionrelative:server\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA7E554B-CCCE-435D-B39B-232FCBD6237B}|Server\\MovieLibrary.Server.csproj|c:\\users\\andr\u00E1s\\downloads\\net_projekt\\.net_projekt\\movielibrary\\server\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA7E554B-CCCE-435D-B39B-232FCBD6237B}|Server\\MovieLibrary.Server.csproj|solutionrelative:server\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA7E554B-CCCE-435D-B39B-232FCBD6237B}|Server\\MovieLibrary.Server.csproj|c:\\users\\andr\u00E1s\\downloads\\net_projekt\\.net_projekt\\movielibrary\\server\\movielibrary.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA7E554B-CCCE-435D-B39B-232FCBD6237B}|Server\\MovieLibrary.Server.csproj|solutionrelative:server\\movielibrary.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2134E6B-A2D2-4FF9-88F6-12A215808AA1}|Shared\\MovieLibrary.Shared.csproj|c:\\users\\andr\u00E1s\\downloads\\net_projekt\\.net_projekt\\movielibrary\\shared\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2134E6B-A2D2-4FF9-88F6-12A215808AA1}|Shared\\MovieLibrary.Shared.csproj|solutionrelative:shared\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|c:\\users\\andr\u00E1s\\downloads\\net_projekt\\.net_projekt\\movielibrary\\client\\pages\\genres.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|solutionrelative:client\\pages\\genres.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|c:\\users\\andr\u00E1s\\downloads\\net_projekt\\.net_projekt\\movielibrary\\client\\service\\actorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|solutionrelative:client\\service\\actorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Server\\appsettings.json",
+              "RelativeToolTip": "Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-02T13:20:15.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RedirectToLogin.razor",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Shared\\RedirectToLogin.razor",
+              "RelativeDocumentMoniker": "Client\\Shared\\RedirectToLogin.razor",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Shared\\RedirectToLogin.razor",
+              "RelativeToolTip": "Client\\Shared\\RedirectToLogin.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T13:16:33.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\wwwroot\\script.js",
+              "RelativeDocumentMoniker": "Client\\wwwroot\\script.js",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\wwwroot\\script.js",
+              "RelativeToolTip": "Client\\wwwroot\\script.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-15T20:52:02.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Server\\Data\\AppDataContext.cs",
+              "RelativeDocumentMoniker": "Server\\Data\\AppDataContext.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Server\\Data\\AppDataContext.cs",
+              "RelativeToolTip": "Server\\Data\\AppDataContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T20:52:02.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GoogleMaps.razor",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Pages\\GoogleMaps.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\GoogleMaps.razor",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Pages\\GoogleMaps.razor",
+              "RelativeToolTip": "Client\\Pages\\GoogleMaps.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T20:52:02.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T20:52:02.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "Client\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\wwwroot\\index.html*",
+              "RelativeToolTip": "Client\\wwwroot\\index.html*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-15T20:52:02.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginDisplay.razor",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Shared\\LoginDisplay.razor",
+              "RelativeDocumentMoniker": "Client\\Shared\\LoginDisplay.razor",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Shared\\LoginDisplay.razor",
+              "RelativeToolTip": "Client\\Shared\\LoginDisplay.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T13:13:58.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SurveyPrompt.razor",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Shared\\SurveyPrompt.razor",
+              "RelativeDocumentMoniker": "Client\\Shared\\SurveyPrompt.razor",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Shared\\SurveyPrompt.razor",
+              "RelativeToolTip": "Client\\Shared\\SurveyPrompt.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T13:16:51.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SearchField.razor",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Shared\\SearchField.razor",
+              "RelativeDocumentMoniker": "Client\\Shared\\SearchField.razor",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Shared\\SearchField.razor",
+              "RelativeToolTip": "Client\\Shared\\SearchField.razor",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T13:16:39.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Client\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Shared\\NavMenu.razor*",
+              "RelativeToolTip": "Client\\Shared\\NavMenu.razor*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T13:15:03.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ActorQueryResolver.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Server\\GraphQL\\ActorQueryResolver.cs",
+              "RelativeDocumentMoniker": "Server\\GraphQL\\ActorQueryResolver.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Server\\GraphQL\\ActorQueryResolver.cs",
+              "RelativeToolTip": "Server\\GraphQL\\ActorQueryResolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T20:52:02.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Client\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "Client\\Shared\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T13:14:38.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Actors.razor",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Pages\\Actors.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\Actors.razor",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Pages\\Actors.razor",
+              "RelativeToolTip": "Client\\Pages\\Actors.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T13:12:11.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Authentication.razor",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Pages\\Authentication.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\Authentication.razor",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Pages\\Authentication.razor",
+              "RelativeToolTip": "Client\\Pages\\Authentication.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T13:11:54.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MovieDetails.razor.css",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Pages\\MovieDetails.razor.css",
+              "RelativeDocumentMoniker": "Client\\Pages\\MovieDetails.razor.css",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Pages\\MovieDetails.razor.css",
+              "RelativeToolTip": "Client\\Pages\\MovieDetails.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-02T13:11:39.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Shared\\Actor.cs",
+              "RelativeDocumentMoniker": "Shared\\Actor.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Shared\\Actor.cs",
+              "RelativeToolTip": "Shared\\Actor.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T13:05:13.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Server\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Server\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Server\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Server\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T13:05:01.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ActorController.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Server\\Controllers\\ActorController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\ActorController.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Server\\Controllers\\ActorController.cs",
+              "RelativeToolTip": "Server\\Controllers\\ActorController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T13:00:30.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "Client\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "Client\\wwwroot\\css\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-02T13:03:18.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Pages\\Index.razor",
+              "RelativeToolTip": "Client\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T20:52:02.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T20:52:02.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ActorService.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Server\\Services\\ActorService.cs",
+              "RelativeDocumentMoniker": "Server\\Services\\ActorService.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Server\\Services\\ActorService.cs",
+              "RelativeToolTip": "Server\\Services\\ActorService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAewBAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T20:52:02.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Server\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "Server\\Services\\MovieService.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Server\\Services\\MovieService.cs",
+              "RelativeToolTip": "Server\\Services\\MovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T20:52:02.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Server\\Interfaces\\IMovieService.cs",
+              "RelativeDocumentMoniker": "Server\\Interfaces\\IMovieService.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Server\\Interfaces\\IMovieService.cs",
+              "RelativeToolTip": "Server\\Interfaces\\IMovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T20:52:02.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EditMovie.razor",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Pages\\EditMovie.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\EditMovie.razor",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Pages\\EditMovie.razor",
+              "RelativeToolTip": "Client\\Pages\\EditMovie.razor",
+              "ViewState": "AgIAAGkAAAAAAAAAAIBJwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T20:52:02.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MovieQueryResolver.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Server\\GraphQL\\MovieQueryResolver.cs",
+              "RelativeDocumentMoniker": "Server\\GraphQL\\MovieQueryResolver.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Server\\GraphQL\\MovieQueryResolver.cs",
+              "RelativeToolTip": "Server\\GraphQL\\MovieQueryResolver.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA1wBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T20:52:02.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Service\\MovieService.cs",
+              "RelativeDocumentMoniker": "Client\\Service\\MovieService.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Service\\MovieService.cs",
+              "RelativeToolTip": "Client\\Service\\MovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T20:52:02.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Interface\\IMovieService.cs",
+              "RelativeDocumentMoniker": "Client\\Interface\\IMovieService.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Interface\\IMovieService.cs",
+              "RelativeToolTip": "Client\\Interface\\IMovieService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBQwAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T20:52:02.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GenreService.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Server\\Services\\GenreService.cs",
+              "RelativeDocumentMoniker": "Server\\Services\\GenreService.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Server\\Services\\GenreService.cs",
+              "RelativeToolTip": "Server\\Services\\GenreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T20:52:02.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MoviesByGenre.razor",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Pages\\MoviesByGenre.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\MoviesByGenre.razor",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Pages\\MoviesByGenre.razor",
+              "RelativeToolTip": "Client\\Pages\\MoviesByGenre.razor",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAhwGYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T20:52:02.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Movies.razor",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Pages\\Movies.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\Movies.razor",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Pages\\Movies.razor",
+              "RelativeToolTip": "Client\\Pages\\Movies.razor",
+              "ViewState": "AgIAABsAAAAAAAAAAIBJwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T20:52:02.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Server\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Server\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "Server\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwCkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T20:52:02.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MovieLibrary.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Server\\MovieLibrary.Server.csproj",
+              "RelativeDocumentMoniker": "Server\\MovieLibrary.Server.csproj",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Server\\MovieLibrary.Server.csproj",
+              "RelativeToolTip": "Server\\MovieLibrary.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-15T20:52:02.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Shared\\Movie.cs",
+              "RelativeDocumentMoniker": "Shared\\Movie.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Shared\\Movie.cs",
+              "RelativeToolTip": "Shared\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T20:52:02.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Genres.razor",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Pages\\Genres.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\Genres.razor",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Pages\\Genres.razor",
+              "RelativeToolTip": "Client\\Pages\\Genres.razor",
+              "ViewState": "AgIAACcAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T20:52:02.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ActorService.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Service\\ActorService.cs",
+              "RelativeDocumentMoniker": "Client\\Service\\ActorService.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Client\\Service\\ActorService.cs",
+              "RelativeToolTip": "Client\\Service\\ActorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T20:52:02.879Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+﻿@page "/movies/{id:int}"
+@using Microsoft.AspNetCore.Authorization
+@using Microsoft.AspNetCore.Components.WebAssembly.Authentication
+@using MovieLibrary.Shared
+@attribute [Authorize]
+@inject IMovieService MovieService
+@inject NavigationManager navigate
+
+<PageTitle>@movie.Title</PageTitle>
+
+        <h1>@movie.Title</h1>
+
+        <p style="text-align: center">
+            <a class="btn btn-primary" href="/movies/@movie.Id/edit"><i class="bi bi-pencil-square"> Edit</i></a>
+            <button class="btn btn-danger" type="button" @onclick="(() =>DeleteMovie(movie.Id))"><i class="bi bi-trash-fill"> Delete</i></button>
+        </p>
+
+
+        <table>
+            <tr>
+                <th>Release date:</th>
+                <td>@movie.ReleaseDate</td>
+                <th>Length (mins):</th>
+                <td>@movie.Length</td>
+                <th>Certificate:</th>
+                @if (@movie.Certificate >= 12 && movie.Certificate < 18)
+                {
+                    <td>
+                        <span style="border: 0.18em solid yellow;">@movie.Certificate</span>
+                    </td>
+                }
+                else if (@movie.Certificate >= 18)
+                {
+                    <td>
+                        <span style="border: 0.18em solid red;">@movie.Certificate</span>
+                    </td>
+                }
+                else
+                {
+                    <td>
+                        <span style="border: 0.18em solid green;">@movie.Certificate</span>
+                    </td>
+                }
+        
+                <th>MetaScore:</th>
+                @if (@movie.MetaScore >= 70)
+                {
+                    <td style="background-color: green; color: white">@movie.MetaScore</td>
+                }
+                else if (@movie.MetaScore > 40)
+                {
+                    <td style="background-color: orange; color: white">@movie.MetaScore</td>
+                }
+                else
+                {
+                    <td style="background-color: red; color: white">@movie.MetaScore</td>
+                }
+            </tr>
+            <tr>
+                <th>Genre(s):</th>
+                <td colspan="7">
+                    @for (int i = 0; i < movie.Genres.Count; i++)
+                    {
+                        if (i != movie.Genres.Count - 1)
+                        {
+                            @($"{movie.Genres[i].Name}, ")
+                        }
+                        else
+                        {
+                            @movie.Genres[i].Name
+                        }
+
+                    }
+                </td>
+            </tr>
+            <tr>
+                <th>Director(s):</th>
+            <td colspan="7">@movie.Directors</td>
+            </tr>
+            <tr>
+                <th>Writer(s):</th>
+            <td colspan="7">@movie.Writers</td>
+            </tr>
+            <tr>
+                <th>Plot:</th>
+            <td colspan="7">@movie.Plot</td>
+            </tr>
+            <tr>
+                <th>Actor(s):</th>
+                <td colspan="7">
+            @for (int i = 0; i < movie.Actors.Count; i++)
+                    {
+                        if (i != movie.Actors.Count - 1)
+                        {
+                            @($"{movie.Actors[i].Name}, ")
+                        }
+                        else
+                        {
+                            @movie.Actors[i].Name
+                        }
+                    }
+                </td>
+            </tr>
+        </table>
+
+@code {
+    private Movie movie = new Movie("","","","");
+
+    [Parameter]
+    public int Id { get; set; }
+
+    protected override async Task OnParametersSetAsync()
+    {
+        try
+        {
+            movie = await MovieService.LoadMovieDetails(Id);
+        }
+        catch (AccessTokenNotAvailableException exception)
+        {
+            exception.Redirect();
+        }
+    }
+
+    public void DeleteMovie(int id)
+    {
+        try
+        {
+            MovieService.DeleteMovie(id);
+            navigate.NavigateTo("/movies");
+        }
+        catch (AccessTokenNotAvailableException exception)
+        {
+            exception.Redirect();
+        }
+    }
+}

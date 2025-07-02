@@ -1,0 +1,84 @@
+G:\G meghajto\.net\kesz\MovieLibrary\Shared\bin\Debug\net6.0\MovieLibrary.Shared.deps.json
+G:\G meghajto\.net\kesz\MovieLibrary\Shared\bin\Debug\net6.0\MovieLibrary.Shared.runtimeconfig.json
+G:\G meghajto\.net\kesz\MovieLibrary\Shared\bin\Debug\net6.0\MovieLibrary.Shared.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Shared\bin\Debug\net6.0\MovieLibrary.Shared.pdb
+G:\G meghajto\.net\kesz\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.csproj.AssemblyReference.cache
+G:\G meghajto\.net\kesz\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.GeneratedMSBuildEditorConfig.editorconfig
+G:\G meghajto\.net\kesz\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.AssemblyInfoInputs.cache
+G:\G meghajto\.net\kesz\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.AssemblyInfo.cs
+G:\G meghajto\.net\kesz\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.csproj.CoreCompileInputs.cache
+G:\G meghajto\.net\kesz\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Shared\obj\Debug\net6.0\refint\MovieLibrary.Shared.dll
+G:\G meghajto\.net\kesz\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.pdb
+G:\G meghajto\.net\kesz\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.genruntimeconfig.cache
+G:\G meghajto\.net\kesz\MovieLibrary\Shared\obj\Debug\net6.0\ref\MovieLibrary.Shared.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Shared\bin\Debug\net6.0\MovieLibrary.Shared.deps.json
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Shared\bin\Debug\net6.0\MovieLibrary.Shared.runtimeconfig.json
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Shared\bin\Debug\net6.0\MovieLibrary.Shared.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Shared\bin\Debug\net6.0\MovieLibrary.Shared.pdb
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.csproj.AssemblyReference.cache
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.GeneratedMSBuildEditorConfig.editorconfig
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.AssemblyInfoInputs.cache
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.AssemblyInfo.cs
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.csproj.CoreCompileInputs.cache
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Shared\obj\Debug\net6.0\refint\MovieLibrary.Shared.dll
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.pdb
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.genruntimeconfig.cache
+G:\G meghajto\.net\probakesz2\kesz\MovieLibrary\Shared\obj\Debug\net6.0\ref\MovieLibrary.Shared.dll
+F:\probakesz3\kesz\MovieLibrary\Shared\bin\Debug\net6.0\MovieLibrary.Shared.deps.json
+F:\probakesz3\kesz\MovieLibrary\Shared\bin\Debug\net6.0\MovieLibrary.Shared.runtimeconfig.json
+F:\probakesz3\kesz\MovieLibrary\Shared\bin\Debug\net6.0\MovieLibrary.Shared.dll
+F:\probakesz3\kesz\MovieLibrary\Shared\bin\Debug\net6.0\MovieLibrary.Shared.pdb
+F:\probakesz3\kesz\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.csproj.AssemblyReference.cache
+F:\probakesz3\kesz\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.GeneratedMSBuildEditorConfig.editorconfig
+F:\probakesz3\kesz\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.AssemblyInfoInputs.cache
+F:\probakesz3\kesz\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.AssemblyInfo.cs
+F:\probakesz3\kesz\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.csproj.CoreCompileInputs.cache
+F:\probakesz3\kesz\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.dll
+F:\probakesz3\kesz\MovieLibrary\Shared\obj\Debug\net6.0\refint\MovieLibrary.Shared.dll
+F:\probakesz3\kesz\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.pdb
+F:\probakesz3\kesz\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.genruntimeconfig.cache
+F:\probakesz3\kesz\MovieLibrary\Shared\obj\Debug\net6.0\ref\MovieLibrary.Shared.dll
+D:\kesz\MovieLibrary\Shared\bin\Debug\net6.0\MovieLibrary.Shared.deps.json
+D:\kesz\MovieLibrary\Shared\bin\Debug\net6.0\MovieLibrary.Shared.runtimeconfig.json
+D:\kesz\MovieLibrary\Shared\bin\Debug\net6.0\MovieLibrary.Shared.dll
+D:\kesz\MovieLibrary\Shared\bin\Debug\net6.0\MovieLibrary.Shared.pdb
+D:\kesz\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.csproj.AssemblyReference.cache
+D:\kesz\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\kesz\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.AssemblyInfoInputs.cache
+D:\kesz\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.AssemblyInfo.cs
+D:\kesz\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.csproj.CoreCompileInputs.cache
+D:\kesz\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.dll
+D:\kesz\MovieLibrary\Shared\obj\Debug\net6.0\refint\MovieLibrary.Shared.dll
+D:\kesz\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.pdb
+D:\kesz\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.genruntimeconfig.cache
+D:\kesz\MovieLibrary\Shared\obj\Debug\net6.0\ref\MovieLibrary.Shared.dll
+D:\.Net_projekt\MovieLibrary\Shared\bin\Debug\net6.0\MovieLibrary.Shared.deps.json
+D:\.Net_projekt\MovieLibrary\Shared\bin\Debug\net6.0\MovieLibrary.Shared.runtimeconfig.json
+D:\.Net_projekt\MovieLibrary\Shared\bin\Debug\net6.0\MovieLibrary.Shared.dll
+D:\.Net_projekt\MovieLibrary\Shared\bin\Debug\net6.0\MovieLibrary.Shared.pdb
+D:\.Net_projekt\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.csproj.AssemblyReference.cache
+D:\.Net_projekt\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net_projekt\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.AssemblyInfoInputs.cache
+D:\.Net_projekt\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.AssemblyInfo.cs
+D:\.Net_projekt\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.csproj.CoreCompileInputs.cache
+D:\.Net_projekt\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.dll
+D:\.Net_projekt\MovieLibrary\Shared\obj\Debug\net6.0\refint\MovieLibrary.Shared.dll
+D:\.Net_projekt\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.pdb
+D:\.Net_projekt\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.genruntimeconfig.cache
+D:\.Net_projekt\MovieLibrary\Shared\obj\Debug\net6.0\ref\MovieLibrary.Shared.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Shared\bin\Debug\net6.0\MovieLibrary.Shared.deps.json
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Shared\bin\Debug\net6.0\MovieLibrary.Shared.runtimeconfig.json
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Shared\bin\Debug\net6.0\MovieLibrary.Shared.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Shared\bin\Debug\net6.0\MovieLibrary.Shared.pdb
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.csproj.AssemblyReference.cache
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.AssemblyInfoInputs.cache
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.AssemblyInfo.cs
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.csproj.CoreCompileInputs.cache
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Shared\obj\Debug\net6.0\refint\MovieLibrary.Shared.dll
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.pdb
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Shared\obj\Debug\net6.0\MovieLibrary.Shared.genruntimeconfig.cache
+C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Shared\obj\Debug\net6.0\ref\MovieLibrary.Shared.dll
