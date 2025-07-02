@@ -13,93 +13,93 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = MovieLibrary.Client
 build_property.RootNamespace = MovieLibrary.Client
-build_property.ProjectDir = C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Client\
+build_property.ProjectDir = D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Client
+build_property.MSBuildProjectDirectory = D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 6.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/András/Downloads/Net_projekt/.Net_projekt/MovieLibrary/Client/App.razor]
+[D:/Movie_library_ASP.NET_CSharp/MovieLibrary/Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/András/Downloads/Net_projekt/.Net_projekt/MovieLibrary/Client/Pages/ActorDetails.razor]
+[D:/Movie_library_ASP.NET_CSharp/MovieLibrary/Client/Pages/ActorDetails.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWN0b3JEZXRhaWxzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/András/Downloads/Net_projekt/.Net_projekt/MovieLibrary/Client/Pages/Actors.razor]
+[D:/Movie_library_ASP.NET_CSharp/MovieLibrary/Client/Pages/Actors.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWN0b3JzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/András/Downloads/Net_projekt/.Net_projekt/MovieLibrary/Client/Pages/Authentication.razor]
+[D:/Movie_library_ASP.NET_CSharp/MovieLibrary/Client/Pages/Authentication.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGljYXRpb24ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/András/Downloads/Net_projekt/.Net_projekt/MovieLibrary/Client/Pages/EditActor.razor]
+[D:/Movie_library_ASP.NET_CSharp/MovieLibrary/Client/Pages/EditActor.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdEFjdG9yLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/András/Downloads/Net_projekt/.Net_projekt/MovieLibrary/Client/Pages/EditGenre.razor]
+[D:/Movie_library_ASP.NET_CSharp/MovieLibrary/Client/Pages/EditGenre.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdEdlbnJlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/András/Downloads/Net_projekt/.Net_projekt/MovieLibrary/Client/Pages/EditMovie.razor]
+[D:/Movie_library_ASP.NET_CSharp/MovieLibrary/Client/Pages/EditMovie.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdE1vdmllLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/András/Downloads/Net_projekt/.Net_projekt/MovieLibrary/Client/Pages/Genres.razor]
+[D:/Movie_library_ASP.NET_CSharp/MovieLibrary/Client/Pages/Genres.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VucmVzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/András/Downloads/Net_projekt/.Net_projekt/MovieLibrary/Client/Pages/GoogleMaps.razor]
+[D:/Movie_library_ASP.NET_CSharp/MovieLibrary/Client/Pages/GoogleMaps.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR29vZ2xlTWFwcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/András/Downloads/Net_projekt/.Net_projekt/MovieLibrary/Client/Pages/Index.razor]
+[D:/Movie_library_ASP.NET_CSharp/MovieLibrary/Client/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/András/Downloads/Net_projekt/.Net_projekt/MovieLibrary/Client/Pages/Movies.razor]
+[D:/Movie_library_ASP.NET_CSharp/MovieLibrary/Client/Pages/Movies.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/András/Downloads/Net_projekt/.Net_projekt/MovieLibrary/Client/Pages/MoviesByGenre.razor]
+[D:/Movie_library_ASP.NET_CSharp/MovieLibrary/Client/Pages/MoviesByGenre.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzQnlHZW5yZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/András/Downloads/Net_projekt/.Net_projekt/MovieLibrary/Client/Shared/LoginDisplay.razor]
+[D:/Movie_library_ASP.NET_CSharp/MovieLibrary/Client/Shared/LoginDisplay.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luRGlzcGxheS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/András/Downloads/Net_projekt/.Net_projekt/MovieLibrary/Client/Shared/RedirectToLogin.razor]
+[D:/Movie_library_ASP.NET_CSharp/MovieLibrary/Client/Shared/RedirectToLogin.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFJlZGlyZWN0VG9Mb2dpbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/András/Downloads/Net_projekt/.Net_projekt/MovieLibrary/Client/Shared/SearchField.razor]
+[D:/Movie_library_ASP.NET_CSharp/MovieLibrary/Client/Shared/SearchField.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNlYXJjaEZpZWxkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/András/Downloads/Net_projekt/.Net_projekt/MovieLibrary/Client/Shared/SurveyPrompt.razor]
+[D:/Movie_library_ASP.NET_CSharp/MovieLibrary/Client/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/András/Downloads/Net_projekt/.Net_projekt/MovieLibrary/Client/_Imports.razor]
+[D:/Movie_library_ASP.NET_CSharp/MovieLibrary/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/András/Downloads/Net_projekt/.Net_projekt/MovieLibrary/Client/Pages/MovieDetails.razor]
+[D:/Movie_library_ASP.NET_CSharp/MovieLibrary/Client/Pages/MovieDetails.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVEZXRhaWxzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-bs6x5x44kp
 
-[C:/Users/András/Downloads/Net_projekt/.Net_projekt/MovieLibrary/Client/Shared/MainLayout.razor]
+[D:/Movie_library_ASP.NET_CSharp/MovieLibrary/Client/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-nm0uva8171
 
-[C:/Users/András/Downloads/Net_projekt/.Net_projekt/MovieLibrary/Client/Shared/NavMenu.razor]
+[D:/Movie_library_ASP.NET_CSharp/MovieLibrary/Client/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-fmyp7x5bbt

@@ -1,7 +1,7 @@
 {
   "entryAssembly": "MovieLibrary.Client",
   "resources": {
-    "hash": "sha256-wWk4JNu1uIm9jbK7dgE2DuyldcHPhlWysG0pdeZcwIE=",
+    "hash": "sha256-0r+87VBO1GuV+bods1EPQayAGBh0spfmIkDzNuLAaeo=",
     "runtime": {
       "dotnet.js": "sha256-pu7MO47B6So4jcW6iY2UI11lBZYz2EQnJKiYNsOpNJg=",
       "dotnet.timezones.blat": "sha256-vrFYQt55a4tGoDGoyRfjjGa1nSecx646RK78iTzPWCM=",
@@ -241,12 +241,12 @@
       "mscorlib.dll": "sha256-FHccFgM8rcGOQ8oacA4eEgiiOynHayVKyd2ICq3Bo4w=",
       "netstandard.dll": "sha256-D91viTBgwuzeuIOx1KgBYnoY0hl2IpcBu/zr22Fu0BU=",
       "System.Private.CoreLib.dll": "sha256-5FbWgChEgLPlYByi8VsHTisbCpgMNSbf95JK5dVOs50=",
-      "MovieLibrary.Shared.dll": "sha256-Kd2gdtaDIiWFJ0Yxn0HwfOHOgcbnbTruOPuJTwRL2H0=",
-      "MovieLibrary.Client.dll": "sha256-1wPa+dijPdSeQOrZlX0PnJLANFC2SrWHs0tOLjuSS04="
+      "MovieLibrary.Shared.dll": "sha256-tkhVgHiXYElTKJpAmB0gia2yjBb+LVEVhAsnr8OvPUA=",
+      "MovieLibrary.Client.dll": "sha256-yl00DngA8QPkH8+iAVi++60tYN+W8V/0MpFza/fs1a0="
     },
     "pdb": {
-      "MovieLibrary.Shared.pdb": "sha256-ba5piJnRDPpkIRJgkjQLzxuk69e2lPRy6PEGFdo1Eho=",
-      "MovieLibrary.Client.pdb": "sha256-HO7OB/d9e1IfkUZc3NLaQXXp7px8q8qzKAS8TCeS2IA="
+      "MovieLibrary.Shared.pdb": "sha256-Av42FpCeqlrSEko7aOvUwITUzOMJ+qJ/xU5ROsl40Dw=",
+      "MovieLibrary.Client.pdb": "sha256-yztz7Bbk7c6i+YaCs/3Xvq+Kib7pmSkP1sWSczftDxQ="
     },
     "runtimeAssets": {
       "dotnet.wasm": {

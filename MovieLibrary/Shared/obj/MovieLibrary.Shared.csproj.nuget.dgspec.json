@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\András\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Shared\\MovieLibrary.Shared.csproj": {}
+    "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Shared\\MovieLibrary.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\András\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Shared\\MovieLibrary.Shared.csproj": {
+    "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Shared\\MovieLibrary.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\András\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Shared\\MovieLibrary.Shared.csproj",
+        "projectUniqueName": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Shared\\MovieLibrary.Shared.csproj",
         "projectName": "MovieLibrary.Shared",
-        "projectPath": "C:\\Users\\András\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Shared\\MovieLibrary.Shared.csproj",
+        "projectPath": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Shared\\MovieLibrary.Shared.csproj",
         "packagesPath": "C:\\Users\\András\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\András\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Shared\\obj\\",
+        "outputPath": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

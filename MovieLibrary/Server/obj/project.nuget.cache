@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gxgdz+EGuQU=",
+  "dgSpecHash": "ZHjr5O+RiL4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\András\\Downloads\\Net_projekt\\.Net_projekt\\MovieLibrary\\Server\\MovieLibrary.Server.csproj",
+  "projectFilePath": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Server\\MovieLibrary.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\András\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\András\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
