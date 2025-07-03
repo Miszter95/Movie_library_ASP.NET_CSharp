@@ -4,3 +4,10 @@ C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Client\obj\Debu
 C:\Users\András\Downloads\Net_projekt\.Net_projekt\MovieLibrary\Client\obj\Debug\net6.0\staticwebassets.build.json
 D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\staticwebassets.build.json
 D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\staticwebassets.build.json
+D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\staticwebassets.build.json
+D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\staticwebassets.build.json
+D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\staticwebassets.build.json
+D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\staticwebassets.build.json
+D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\staticwebassets.build.json
+D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\staticwebassets.build.json
+D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\staticwebassets.build.json

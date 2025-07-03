@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|solutionrelative:client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|d:\\movie_library_asp.net_csharp\\movielibrary\\client\\shared\\redirecttologin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|solutionrelative:client\\shared\\redirecttologin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|d:\\movie_library_asp.net_csharp\\movielibrary\\client\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|solutionrelative:client\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FA7E554B-CCCE-435D-B39B-232FCBD6237B}|Server\\MovieLibrary.Server.csproj|d:\\movie_library_asp.net_csharp\\movielibrary\\server\\data\\appdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA7E554B-CCCE-435D-B39B-232FCBD6237B}|Server\\MovieLibrary.Server.csproj|solutionrelative:server\\data\\appdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|d:\\movie_library_asp.net_csharp\\movielibrary\\client\\shared\\redirecttologin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|solutionrelative:client\\shared\\redirecttologin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|d:\\movie_library_asp.net_csharp\\movielibrary\\client\\shared\\logindisplay.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -158,11 +158,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "Client\\wwwroot\\index.html",
+              "ToolTip": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\wwwroot\\index.html",
+              "RelativeToolTip": "Client\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-15T20:52:02.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Client\\Shared\\NavMenu.razor",
+              "ToolTip": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "Client\\Shared\\NavMenu.razor",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T13:15:03.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "RedirectToLogin.razor",
               "DocumentMoniker": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\Shared\\RedirectToLogin.razor",
               "RelativeDocumentMoniker": "Client\\Shared\\RedirectToLogin.razor",
@@ -170,11 +196,12 @@
               "RelativeToolTip": "Client\\Shared\\RedirectToLogin.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-02T13:16:33.916Z"
+              "WhenOpened": "2025-07-02T13:16:33.916Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "script.js",
               "DocumentMoniker": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\wwwroot\\script.js",
               "RelativeDocumentMoniker": "Client\\wwwroot\\script.js",
@@ -182,11 +209,12 @@
               "RelativeToolTip": "Client\\wwwroot\\script.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-15T20:52:02.871Z"
+              "WhenOpened": "2025-06-15T20:52:02.871Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AppDataContext.cs",
               "DocumentMoniker": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Server\\Data\\AppDataContext.cs",
               "RelativeDocumentMoniker": "Server\\Data\\AppDataContext.cs",
@@ -198,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "GoogleMaps.razor",
               "DocumentMoniker": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\Pages\\GoogleMaps.razor",
               "RelativeDocumentMoniker": "Client\\Pages\\GoogleMaps.razor",
@@ -210,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\Program.cs",
               "RelativeDocumentMoniker": "Client\\Program.cs",
@@ -219,18 +247,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T20:52:02.875Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "index.html",
-              "DocumentMoniker": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\wwwroot\\index.html",
-              "RelativeDocumentMoniker": "Client\\wwwroot\\index.html",
-              "ToolTip": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\wwwroot\\index.html",
-              "RelativeToolTip": "Client\\wwwroot\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-06-15T20:52:02.866Z"
             },
             {
               "$type": "Document",
@@ -246,20 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\Shared\\NavMenu.razor",
-              "RelativeDocumentMoniker": "Client\\Shared\\NavMenu.razor",
-              "ToolTip": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\Shared\\NavMenu.razor",
-              "RelativeToolTip": "Client\\Shared\\NavMenu.razor",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-02T13:15:03.069Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Server\\appsettings.json",
               "RelativeDocumentMoniker": "Server\\appsettings.json",
@@ -295,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ActorQueryResolver.cs",
               "DocumentMoniker": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Server\\GraphQL\\ActorQueryResolver.cs",
               "RelativeDocumentMoniker": "Server\\GraphQL\\ActorQueryResolver.cs",

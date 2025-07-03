@@ -6939,9 +6939,6 @@ D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\compressed\
 D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\compressed\3wt4oaanzz-pf4yq2tlc6.gz
 D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\compressed\3f0u9le7fn-i5f8awsn5i.gz
 D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\compressed\0eq0e3q78k-myqyd2h7q0.gz
-D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\compressed\yjuwtuimku-e2iryba4c8.gz
-D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\compressed\rly4pfzret-xd87q9cjqc.gz
-D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\compressed\kcutaoiidl-f1ppczatnp.gz
 D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\staticwebassets.build.json
 D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\staticwebassets.development.json
 D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\staticwebassets.build.endpoints.json
@@ -6957,3 +6954,6 @@ D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\MovieLibrar
 D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\refint\MovieLibrary.Client.dll
 D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\MovieLibrary.Client.pdb
 D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\ref\MovieLibrary.Client.dll
+D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\compressed\yjuwtuimku-c07zo7nyb8.gz
+D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\compressed\rly4pfzret-cyjhkcntb5.gz
+D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\compressed\kcutaoiidl-le5l5xmhfd.gz
