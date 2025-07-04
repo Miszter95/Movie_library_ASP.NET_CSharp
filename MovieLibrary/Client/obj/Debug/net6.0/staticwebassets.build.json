@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fNwWw06wjz4m9kf9grQDNcH8I13jDleQUDASKdu5HEQ=",
+  "Hash": "1TJ8dV/GOHHh1+m+5a7bJ11mIBuDUN5RZ4of/SPM/t8=",
   "Source": "MovieLibrary.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -850,8 +850,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "le5l5xmhfd",
-      "Integrity": "Ywgh8I7bMp/7cfpwsiMJmsIeRCGO/sp6r/jAbA37xAY=",
+      "Fingerprint": "5yabc00taf",
+      "Integrity": "0yfhIXvKtGa0n3VMlvMM7Um7KukX/WFrguOMJ50tr2w=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net6.0\\blazor.boot.json"
@@ -2173,8 +2173,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "c07zo7nyb8",
-      "Integrity": "PJKkX/V5IYozR21UHf7UAk/D8vsml2G4U/s76OJgYqc=",
+      "Fingerprint": "zp9hu7a8ri",
+      "Integrity": "ibrMvdVMCSvQlLKl8VdEmboRF6OJ0/0cf21/IGIUIG8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net6.0\\MovieLibrary.Client.dll"
@@ -2194,8 +2194,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "cyjhkcntb5",
-      "Integrity": "RHNDcQ2KbVYCn8iZR8IyaQIiNn9jip3sKlrXZ7mQsEU=",
+      "Fingerprint": "et8wkqzugc",
+      "Integrity": "ouDG+Ro7hEpUoHyiQy6pxsXPDspLr0/S5b96yVQeAIA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net6.0\\MovieLibrary.Client.pdb"
@@ -8522,7 +8522,7 @@
       "OriginalItemSpec": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Dynamic.Runtime.dll"
     },
     {
-      "Identity": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\obj\\Debug\\net6.0\\compressed\\kcutaoiidl-le5l5xmhfd.gz",
+      "Identity": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\obj\\Debug\\net6.0\\compressed\\kcutaoiidl-5yabc00taf.gz",
       "SourceId": "MovieLibrary.Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\obj\\Debug\\net6.0\\compressed\\",
@@ -8536,8 +8536,8 @@
       "RelatedAsset": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "3j3j6v2nrz",
-      "Integrity": "YeVBgheYfuDyjkIrS+TtPIE+BCzFeC41RlTimSTKejY=",
+      "Fingerprint": "thu3piouzn",
+      "Integrity": "If4WbV5e9rdxA7yptPYqDhOIXWsi+FfW/yBudldkLz8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -9866,7 +9866,7 @@
       "OriginalItemSpec": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
-      "Identity": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\obj\\Debug\\net6.0\\compressed\\rly4pfzret-cyjhkcntb5.gz",
+      "Identity": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\obj\\Debug\\net6.0\\compressed\\rly4pfzret-et8wkqzugc.gz",
       "SourceId": "MovieLibrary.Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\obj\\Debug\\net6.0\\compressed\\",
@@ -9880,8 +9880,8 @@
       "RelatedAsset": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\MovieLibrary.Client.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ys6ubq5g40",
-      "Integrity": "Dp/4aMJU0kjHAJFlswnpeDBdL+Mk6NYLVU5DslIPODA=",
+      "Fingerprint": "47mee1s7m1",
+      "Integrity": "4FkPrH0yuoxWgwvG3mY7Au+FK2r2JxLLI0KRqcMiN6I=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\MovieLibrary.Client.pdb"
@@ -10790,7 +10790,7 @@
       "OriginalItemSpec": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Private.Runtime.InteropServices.JavaScript.dll"
     },
     {
-      "Identity": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\obj\\Debug\\net6.0\\compressed\\yjuwtuimku-c07zo7nyb8.gz",
+      "Identity": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\obj\\Debug\\net6.0\\compressed\\yjuwtuimku-zp9hu7a8ri.gz",
       "SourceId": "MovieLibrary.Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\obj\\Debug\\net6.0\\compressed\\",
@@ -10804,8 +10804,8 @@
       "RelatedAsset": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\MovieLibrary.Client.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "59k9taar6n",
-      "Integrity": "ydOR6GgTM0hr1P1n/jOLinhiST+O7YDOWaLBGGOyEWA=",
+      "Fingerprint": "njdt0ur4xq",
+      "Integrity": "LS7TqdtQ7ePf0/0oUKVsrPpz00gUtFBngi5jzBvowrk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\MovieLibrary.Client.dll"
@@ -11434,8 +11434,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "f2l4zgxv80",
-      "Integrity": "Waku5OoqDEzsi7KgRbloADDYHesyCru7VRvcIPmRDGU=",
+      "Fingerprint": "lq0rslagy0",
+      "Integrity": "gxMT7wPcjgGsbFnmOvMShE9Vf9XyYYsREdIVVcWaONY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -13125,7 +13125,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ywgh8I7bMp/7cfpwsiMJmsIeRCGO/sp6r/jAbA37xAY=\""
+          "Value": "\"0yfhIXvKtGa0n3VMlvMM7Um7KukX/WFrguOMJ50tr2w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Jul 2025 03:38:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0yfhIXvKtGa0n3VMlvMM7Um7KukX/WFrguOMJ50tr2w="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/blazor.boot.json",
+      "AssetFile": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\obj\\Debug\\net6.0\\compressed\\kcutaoiidl-5yabc00taf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000093545370"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10689"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"If4WbV5e9rdxA7yptPYqDhOIXWsi+FfW/yBudldkLz8=\""
         },
         {
           "Name": "Last-Modified",
@@ -13134,45 +13173,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Ywgh8I7bMp/7cfpwsiMJmsIeRCGO/sp6r/jAbA37xAY="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/blazor.boot.json",
-      "AssetFile": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\obj\\Debug\\net6.0\\compressed\\kcutaoiidl-le5l5xmhfd.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000093536620"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "10690"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YeVBgheYfuDyjkIrS+TtPIE+BCzFeC41RlTimSTKejY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 03 Jul 2025 13:42:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -13188,19 +13188,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Ywgh8I7bMp/7cfpwsiMJmsIeRCGO/sp6r/jAbA37xAY=\""
+          "Value": "W/\"0yfhIXvKtGa0n3VMlvMM7Um7KukX/WFrguOMJ50tr2w=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Ywgh8I7bMp/7cfpwsiMJmsIeRCGO/sp6r/jAbA37xAY="
+          "Value": "sha256-0yfhIXvKtGa0n3VMlvMM7Um7KukX/WFrguOMJ50tr2w="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\obj\\Debug\\net6.0\\compressed\\kcutaoiidl-le5l5xmhfd.gz",
+      "AssetFile": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\obj\\Debug\\net6.0\\compressed\\kcutaoiidl-5yabc00taf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13209,7 +13209,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10690"
+          "Value": "10689"
         },
         {
           "Name": "Content-Type",
@@ -13217,11 +13217,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YeVBgheYfuDyjkIrS+TtPIE+BCzFeC41RlTimSTKejY=\""
+          "Value": "\"If4WbV5e9rdxA7yptPYqDhOIXWsi+FfW/yBudldkLz8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Jul 2025 13:42:11 GMT"
+          "Value": "Thu, 03 Jul 2025 13:43:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13239,7 +13239,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YeVBgheYfuDyjkIrS+TtPIE+BCzFeC41RlTimSTKejY="
+          "Value": "sha256-If4WbV5e9rdxA7yptPYqDhOIXWsi+FfW/yBudldkLz8="
         }
       ]
     },
@@ -21748,7 +21748,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "95232"
+          "Value": "94720"
         },
         {
           "Name": "Content-Type",
@@ -21756,7 +21756,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"PJKkX/V5IYozR21UHf7UAk/D8vsml2G4U/s76OJgYqc=\""
+          "Value": "\"ibrMvdVMCSvQlLKl8VdEmboRF6OJ0/0cf21/IGIUIG8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Jul 2025 03:38:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ibrMvdVMCSvQlLKl8VdEmboRF6OJ0/0cf21/IGIUIG8="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/MovieLibrary.Client.dll",
+      "AssetFile": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\obj\\Debug\\net6.0\\compressed\\yjuwtuimku-zp9hu7a8ri.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000030997179"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32260"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LS7TqdtQ7ePf0/0oUKVsrPpz00gUtFBngi5jzBvowrk=\""
         },
         {
           "Name": "Last-Modified",
@@ -21765,45 +21804,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-PJKkX/V5IYozR21UHf7UAk/D8vsml2G4U/s76OJgYqc="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/MovieLibrary.Client.dll",
-      "AssetFile": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\obj\\Debug\\net6.0\\compressed\\yjuwtuimku-c07zo7nyb8.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000031057830"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "32197"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ydOR6GgTM0hr1P1n/jOLinhiST+O7YDOWaLBGGOyEWA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 03 Jul 2025 13:39:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -21819,19 +21819,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"PJKkX/V5IYozR21UHf7UAk/D8vsml2G4U/s76OJgYqc=\""
+          "Value": "W/\"ibrMvdVMCSvQlLKl8VdEmboRF6OJ0/0cf21/IGIUIG8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-PJKkX/V5IYozR21UHf7UAk/D8vsml2G4U/s76OJgYqc="
+          "Value": "sha256-ibrMvdVMCSvQlLKl8VdEmboRF6OJ0/0cf21/IGIUIG8="
         }
       ]
     },
     {
       "Route": "_framework/MovieLibrary.Client.dll.gz",
-      "AssetFile": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\obj\\Debug\\net6.0\\compressed\\yjuwtuimku-c07zo7nyb8.gz",
+      "AssetFile": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\obj\\Debug\\net6.0\\compressed\\yjuwtuimku-zp9hu7a8ri.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21840,7 +21840,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "32197"
+          "Value": "32260"
         },
         {
           "Name": "Content-Type",
@@ -21848,11 +21848,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ydOR6GgTM0hr1P1n/jOLinhiST+O7YDOWaLBGGOyEWA=\""
+          "Value": "\"LS7TqdtQ7ePf0/0oUKVsrPpz00gUtFBngi5jzBvowrk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Jul 2025 13:39:00 GMT"
+          "Value": "Thu, 03 Jul 2025 13:43:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21870,7 +21870,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ydOR6GgTM0hr1P1n/jOLinhiST+O7YDOWaLBGGOyEWA="
+          "Value": "sha256-LS7TqdtQ7ePf0/0oUKVsrPpz00gUtFBngi5jzBvowrk="
         }
       ]
     },
@@ -21885,7 +21885,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "69008"
+          "Value": "68940"
         },
         {
           "Name": "Content-Type",
@@ -21893,7 +21893,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RHNDcQ2KbVYCn8iZR8IyaQIiNn9jip3sKlrXZ7mQsEU=\""
+          "Value": "\"ouDG+Ro7hEpUoHyiQy6pxsXPDspLr0/S5b96yVQeAIA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Jul 2025 03:38:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ouDG+Ro7hEpUoHyiQy6pxsXPDspLr0/S5b96yVQeAIA="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/MovieLibrary.Client.pdb",
+      "AssetFile": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\obj\\Debug\\net6.0\\compressed\\rly4pfzret-et8wkqzugc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000018691938"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53498"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4FkPrH0yuoxWgwvG3mY7Au+FK2r2JxLLI0KRqcMiN6I=\""
         },
         {
           "Name": "Last-Modified",
@@ -21902,45 +21941,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-RHNDcQ2KbVYCn8iZR8IyaQIiNn9jip3sKlrXZ7mQsEU="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/MovieLibrary.Client.pdb",
-      "AssetFile": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\obj\\Debug\\net6.0\\compressed\\rly4pfzret-cyjhkcntb5.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000018717478"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "53425"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Dp/4aMJU0kjHAJFlswnpeDBdL+Mk6NYLVU5DslIPODA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 03 Jul 2025 13:39:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -21956,19 +21956,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"RHNDcQ2KbVYCn8iZR8IyaQIiNn9jip3sKlrXZ7mQsEU=\""
+          "Value": "W/\"ouDG+Ro7hEpUoHyiQy6pxsXPDspLr0/S5b96yVQeAIA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RHNDcQ2KbVYCn8iZR8IyaQIiNn9jip3sKlrXZ7mQsEU="
+          "Value": "sha256-ouDG+Ro7hEpUoHyiQy6pxsXPDspLr0/S5b96yVQeAIA="
         }
       ]
     },
     {
       "Route": "_framework/MovieLibrary.Client.pdb.gz",
-      "AssetFile": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\obj\\Debug\\net6.0\\compressed\\rly4pfzret-cyjhkcntb5.gz",
+      "AssetFile": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\obj\\Debug\\net6.0\\compressed\\rly4pfzret-et8wkqzugc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21977,7 +21977,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "53425"
+          "Value": "53498"
         },
         {
           "Name": "Content-Type",
@@ -21985,11 +21985,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Dp/4aMJU0kjHAJFlswnpeDBdL+Mk6NYLVU5DslIPODA=\""
+          "Value": "\"4FkPrH0yuoxWgwvG3mY7Au+FK2r2JxLLI0KRqcMiN6I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Jul 2025 13:39:00 GMT"
+          "Value": "Thu, 03 Jul 2025 13:43:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22007,7 +22007,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Dp/4aMJU0kjHAJFlswnpeDBdL+Mk6NYLVU5DslIPODA="
+          "Value": "sha256-4FkPrH0yuoxWgwvG3mY7Au+FK2r2JxLLI0KRqcMiN6I="
         }
       ]
     },
@@ -47627,51 +47627,6 @@
       ]
     },
     {
-      "Route": "index.f2l4zgxv80.html",
-      "AssetFile": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\wwwroot\\index.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1379"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Waku5OoqDEzsi7KgRbloADDYHesyCru7VRvcIPmRDGU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 03 Jul 2025 13:42:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "f2l4zgxv80"
-        },
-        {
-          "Name": "label",
-          "Value": "index.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Waku5OoqDEzsi7KgRbloADDYHesyCru7VRvcIPmRDGU="
-        }
-      ]
-    },
-    {
       "Route": "index.html",
       "AssetFile": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\wwwroot\\index.html",
       "Selectors": [],
@@ -47682,7 +47637,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1379"
+          "Value": "1551"
         },
         {
           "Name": "Content-Type",
@@ -47690,11 +47645,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Waku5OoqDEzsi7KgRbloADDYHesyCru7VRvcIPmRDGU=\""
+          "Value": "\"gxMT7wPcjgGsbFnmOvMShE9Vf9XyYYsREdIVVcWaONY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Jul 2025 13:42:07 GMT"
+          "Value": "Fri, 04 Jul 2025 03:38:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -47704,7 +47659,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Waku5OoqDEzsi7KgRbloADDYHesyCru7VRvcIPmRDGU="
+          "Value": "sha256-gxMT7wPcjgGsbFnmOvMShE9Vf9XyYYsREdIVVcWaONY="
+        }
+      ]
+    },
+    {
+      "Route": "index.lq0rslagy0.html",
+      "AssetFile": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1551"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gxMT7wPcjgGsbFnmOvMShE9Vf9XyYYsREdIVVcWaONY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Jul 2025 03:38:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lq0rslagy0"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gxMT7wPcjgGsbFnmOvMShE9Vf9XyYYsREdIVVcWaONY="
         }
       ]
     },

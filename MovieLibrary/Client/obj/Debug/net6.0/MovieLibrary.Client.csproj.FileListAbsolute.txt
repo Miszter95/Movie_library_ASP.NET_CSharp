@@ -6954,6 +6954,6 @@ D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\MovieLibrar
 D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\refint\MovieLibrary.Client.dll
 D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\MovieLibrary.Client.pdb
 D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\ref\MovieLibrary.Client.dll
-D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\compressed\yjuwtuimku-c07zo7nyb8.gz
-D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\compressed\rly4pfzret-cyjhkcntb5.gz
-D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\compressed\kcutaoiidl-le5l5xmhfd.gz
+D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\compressed\yjuwtuimku-zp9hu7a8ri.gz
+D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\compressed\rly4pfzret-et8wkqzugc.gz
+D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\compressed\kcutaoiidl-5yabc00taf.gz

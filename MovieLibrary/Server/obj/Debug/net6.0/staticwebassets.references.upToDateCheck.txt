@@ -11,3 +11,7 @@ D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\staticwebas
 D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\staticwebassets.build.json
 D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\staticwebassets.build.json
 D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\staticwebassets.build.json
+D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\staticwebassets.build.json
+D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\staticwebassets.build.json
+D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\staticwebassets.build.json
+D:\Movie_library_ASP.NET_CSharp\MovieLibrary\Client\obj\Debug\net6.0\staticwebassets.build.json

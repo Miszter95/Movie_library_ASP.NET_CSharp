@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|d:\\movie_library_asp.net_csharp\\movielibrary\\client\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|solutionrelative:client\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|d:\\movie_library_asp.net_csharp\\movielibrary\\client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|solutionrelative:client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|d:\\movie_library_asp.net_csharp\\movielibrary\\client\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|solutionrelative:client\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AFD30FB9-F3EE-4650-888E-CFD64DBBE15D}|Client\\MovieLibrary.Client.csproj|d:\\movie_library_asp.net_csharp\\movielibrary\\client\\shared\\redirecttologin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -158,30 +158,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "index.html",
               "DocumentMoniker": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "Client\\wwwroot\\index.html",
               "ToolTip": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\wwwroot\\index.html",
               "RelativeToolTip": "Client\\wwwroot\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-06-15T20:52:02.866Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\Shared\\NavMenu.razor",
               "RelativeDocumentMoniker": "Client\\Shared\\NavMenu.razor",
               "ToolTip": "D:\\Movie_library_ASP.NET_CSharp\\MovieLibrary\\Client\\Shared\\NavMenu.razor",
               "RelativeToolTip": "Client\\Shared\\NavMenu.razor",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-02T13:15:03.069Z",
               "EditorCaption": ""
@@ -196,8 +196,7 @@
               "RelativeToolTip": "Client\\Shared\\RedirectToLogin.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-02T13:16:33.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T13:16:33.916Z"
             },
             {
               "$type": "Document",
@@ -209,8 +208,7 @@
               "RelativeToolTip": "Client\\wwwroot\\script.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-15T20:52:02.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T20:52:02.871Z"
             },
             {
               "$type": "Document",
